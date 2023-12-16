@@ -12,9 +12,9 @@ DIYP台标版　DIYP多版本　派大星直播1.0.3　TV直播
 
 IPTV PRO 破解版　TiviMate 汉化解锁
 
-**Github托管直播源打不开：地址前增加　\`https://mirror.ghproxy.com/\`　即可**
+**Github托管直播源打不开：地址前增加　https://mirror.ghproxy.com/　即可**
 
-**m3u源转txt源：地址前增加　\`https://fanmingming.com/txt?url=\`　即可**
+**m3u源转txt源：地址前增加　https://fanmingming.com/txt?url=　即可**
 
 **txt转m3u：AnyConv　黑鸟博客**
 
