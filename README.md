@@ -1,5 +1,16 @@
 ---
 description: 请认真阅读以下声明
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 📋 首页声明

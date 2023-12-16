@@ -1,48 +1,74 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 📺 看电视
 
 ## ★Install Apk（无直播源APK，自定义电视台列表）
 
 ### 支持txt源
 
-DIYP台标版　DIYP多版本　派大星直播1.0.3　TV直播
+[DIYP台标版](https://tansuo.lanzoub.com/izIp40ve9ing)　[DIYP多版本](https://sharerw.lanzoui.com/b0aevufxe)　[派大星直播1.0.3](https://tansuo.lanzoub.com/ivTWV0qkxpni)　[TV直播](https://tansuo.lanzoub.com/iTGGy0qbhc7e)
 
 推荐将直播源txt文件放在本地根目录相应文件夹内，如DIYP文件夹。txt文件名 1#央视.txt 2#卫视.txt 按此排序
 
 ### 支持m3u源
 
-IPTV PRO 破解版　TiviMate 汉化解锁
+[IPTV PRO 破解版](https://www.423down.com/9788.html)　[TiviMate 汉化解锁](https://tansuo.lanzoub.com/iCe7L0z3vweb)
 
-**Github托管直播源打不开：地址前增加　https://mirror.ghproxy.com/　即可**
+**Github托管直播源打不开：地址前增加**　<mark style="color:red;">https://mirror.ghproxy.com/</mark>　**即可**
 
-**m3u源转txt源：地址前增加　https://fanmingming.com/txt?url=　即可**
+**m3u源转txt源：地址前增加**　<mark style="color:red;">https://fanmingming.com/txt?url=</mark>　**即可**
 
-**txt转m3u：AnyConv　黑鸟博客**
+**txt转m3u：**[**AnyConv**](https://anyconv.com/txt-to-m3u-converter/)　[**黑鸟博客**](https://guihet.com/tvlistconvert.html)
 
 ## ★Input EPG（导入节目表信息，各省可能不同，看哪个能用就行）
 
-http://epg.51zmt.top:8000/api/diyp/　https://epg.112114.xyz　https://epg.112114.eu.org　http://diyp.112114.xyz
+http://epg.51zmt.top:8000/api/diyp/
 
-https://epg.112114.xyz/pp.xml　http://epg.51zmt.top:8000/e.xml　http://epg.aptvapp.com/xml　https://epg.pw/xmltv.html?lang=zh-hant
+https://epg.112114.xyz
+
+https://epg.112114.eu.org
+
+http://diyp.112114.xyz
+
+https://epg.112114.xyz/pp.xml
+
+http://epg.51zmt.top:8000/e.xml
+
+http://epg.aptvapp.com/xml
+
+https://epg.pw/xmltv.html?lang=zh-hant
 
 ## ★2024最新全球电视IPTV直播源吸星大法 解压密码 tansuo.tv
 
-https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan
+[https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan)
 
 ## ★Find IPTV Source（寻找直播源）
 
 ### 搜索引擎
 
-IPTV Link Search　iptv-org　Yam Code　Streamtest
+[IPTV Link Search](https://www.foodieguide.com/iptvsearch/)　[iptv-org](https://iptv-org.github.io/)　[Yam Code](https://www.yamcode.com/trending)　[Streamtest](https://streamtest.in/logs)
 
 ### 大佬分享
 
-★范明明　★全球IPTV直播源　★IPTVindex-tv　★wcb1969 iptv　★友善的肥羊
+[范明明](https://github.com/fanmingming/live)　[全球IPTV直播源](https://github.com/iptv-org/iptv)　[IPTVindex-tv](https://github.com/tansuotv/IPTVindex/tree/main/tv)　[wcb1969 iptv](https://github.com/wcb1969/iptv)　[友善的肥羊](https://github.com/22705/IPTV-2/tree/main)
 
-Ftindy/IPTV-URL　biancangming/wtv电视直播源集合　最新IPTV直播源推荐
+[Ftindy/IPTV-URL](https://github.com/Ftindy/IPTV-URL)　[biancangming/wtv电视直播源集合](https://github.com/biancangming/wtv)　[最新IPTV直播源推荐](https://github.com/biancangming/wtv/wiki/%E6%9C%80%E6%96%B0IPTV%E7%9B%B4%E6%92%AD%E6%BA%90m3u8%E4%B8%8B%E8%BD%BD%EF%BC%8C%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90)
 
-恩山无线论坛
+[恩山无线论坛](https://www.right.com.cn/forum/forum-182-1.html)
 
-fanmingming范明明：
+### fanmingming范明明
 
 　Global直播源txt：https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/global.m3u
 
@@ -58,7 +84,9 @@ fanmingming范明明：
 
 　IPV6专用m3u：https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
-IPTV-ORG总列表：https://iptv-org.github.io/iptv/index.m3u
+### IPTV-ORG
+
+　总列表：https://iptv-org.github.io/iptv/index.m3u
 
 　包含不可描述内容：https://iptv-org.github.io/iptv/index.nsfw.m3u
 
@@ -83,6 +111,8 @@ IPTV-ORG总列表：https://iptv-org.github.io/iptv/index.m3u
 　中文频道：https://iptv-org.github.io/iptv/languages/zho.m3u
 
 　英文频道：https://iptv-org.github.io/iptv/languages/eng.m3u
+
+### 其他
 
 https://gitee.com/amygotv/tvsource/raw/master/TVLives
 
