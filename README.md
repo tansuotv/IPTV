@@ -15,7 +15,9 @@ layout:
 
 # 📋 首页声明
 
-## <mark style="color:red;">即日起，</mark><mark style="color:red;">**网站从GitHub搬迁至GitBook，优化多终端访问体验。**</mark>
+## <mark style="color:red;">2023年12月16日起，IPTVindex</mark><mark style="color:red;">**搬迁至GitBook，优化多终端体验。**</mark>
+
+## <mark style="color:red;">**PC界面右上角可切换白天黑夜场景，更可直接搜索全站。**</mark>
 
 **★2023年4月以来，全国陆续有26家省级广播电视台、台新媒体机构联合发布了《电视频道联合维权声明》。**
 
