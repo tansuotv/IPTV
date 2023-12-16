@@ -16,19 +16,23 @@ layout:
 
 ## ★大佬应用集合
 
-太阳云盘　阿虚同学　盒子地窖　IPTVindex　大杂烩(密码1234)　香雅情
+[太阳云盘](http://www.teyonds.com/)　[阿虚同学](https://axutongxue.com/)　[盒子地窖](http://www.wmsio.cn/)　[IPTVindex](https://tansuo.lanzoub.com/b01592xri)　[大杂烩(密码1234)](https://wwjn.lanzout.com/b03jpibob)　[香雅情](https://www.123pan.com/s/alSeVv-lGO0A.html)
 
-吾爱有三　423Down安卓视频　烈火①TV(密码gtrt)　②手机(密码a08l)
+[吾爱有三](https://wuaiyousan.lanzoui.com/b02unwved)　[423Down安卓视频](https://423down.lanzouo.com/b0f1944aj)　[烈火①TV(密码gtrt)](https://www.lanzoui.com/b481565/)　[②手机(密码a08l)](https://www.lanzoui.com/b481564/)
 
 ## ★TVBox原版+魔改
 
-TVBox Github站　TVBox Takagen99(密码999)　TVBox开源版(密码123)　可视TVMax(密码54jb)　喵影视TV
+[TVBox Github站](https://github.com/liu673cn/box)　[TVBox Takagen99(密码999)](https://wws.lanzouv.com/b03j4ulyh)　[TVBox开源版(密码123)](https://tsq.lanzouf.com/b0c4nr91c)　[可视TVMax(密码54jb)](https://wwhm.lanzoub.com/b0es81t8j)　[喵影视TV](https://teyonds.lanzouw.com/s/MeowTVS)
 
-影视仓TV版　TV版5.0.15　V4版4.0.34　V3版3.0.32（车载可用）
+### 影视仓TV版
 
-影视仓安卓手机版　手机版2.0.11　影音壳子　EasyBox
+[TV版5.0.15](https://tansuo.lanzoub.com/b01592xri)　[V4版4.0.34](https://tansuo.lanzoub.com/ing340zz3vje)　[V3版3.0.32（车载可用）](https://tansuo.lanzoub.com/iPg311hmqjde)
 
-来自安卓哥开发的影视仓介绍
+### 影视仓安卓手机版
+
+[手机版2.0.11](https://tansuo.lanzoub.com/b01592xri)　[影音壳子](https://liucn.lanzouf.com/iZlVl0jsm5kf)　[EasyBox](https://tansuo.lanzoub.com/ioKt70qboiej)
+
+### 来自安卓哥开发的影视仓介绍
 
 手机版以2.0....开头，目前功能已日臻完美。
 
@@ -42,31 +46,33 @@ TV版（电视、盒子版）目前有三个系列：
 
 ## ★稳定的阿里云盘
 
-1.支持阿里云盘的TV播放器
+### 1.支持阿里云盘的TV播放器
 
-当贝播放器　阿里云盘TV　小白云盘TV
+[当贝播放器](https://www.dangbei.com/player/)　[阿里云盘TV](https://aliyunpantv.gitlab.io/)　[小白云盘TV](https://crazynoby.github.io/)
 
-2.阿里云盘影视资源站
+### 2.阿里云盘影视资源站
 
-阿里云盘资源1　阿里云盘资源2　玩偶哥哥　Telegram中文搜索
+[阿里云盘资源1](https://pan666.cn/)　[阿里云盘资源2](https://t.me/zaihuayun)　[玩偶哥哥](https://wogg.xyz/)　[Telegram中文搜索](http://www.sssoou.com/)
 
 ## ★免费应用
 
-1.海外
+### 1.海外
 
-星视界　泥视频（最近开始有广告了）
+[星视界](https://histar.tv/)　[泥视频（最近开始有广告了）](https://www.nivod.tv/)
 
-2.其他
+### 2.其他
 
-影视工场TV　8K影视　极客影院
+[影视工场TV](https://down.ysgc.xyz/)　[8K影视](https://wwm.lanzouj.com/iKIHw04ainja)　[极客影院](https://www.jiketv.com/index.php/label/down.html)
 
 ## ★TVBox接口
 
-### TVBox接口说明
+[TVBox接口说明](https://github.com/dlgt7/TVbox-interface)
 
-在线接口：　电视盒子源汇总　云星接口合集　心魔大佬　黎歌の接口地址　饭太硬接口地址　欧歌API多线路TVBOX影视仓专用
+### 在线接口
 
-本地接口：　-=云星日记TVBox本地接口=- 密码：4e93 本地+在线多仓 (优选): clan://localhost/TVBox/lib/ksck.json
+[电视盒子源汇总](https://czy0220.gitee.io/cyuan/)　[云星接口合集](https://www.moil.cc/10.html)　[心魔大佬](https://codeberg.org/yw88075/tvbox.git)　[黎歌の接口地址](https://www.lige.fit/tvbox)　[饭太硬接口地址](https://xn--sss604efuw.top/)　[欧歌API多线路TVBOX影视仓专用](http://tv.nxog.top/)
+
+本地接口：　[-=云星日记TVBox本地接口=-](https://itvbox.lanzoub.com/b0erx68gf) 密码：4e93 本地+在线多仓 (优选): clan://localhost/TVBox/lib/ksck.json
 
 clan://localhost/TVBox/lib/99.json
 
@@ -116,7 +122,7 @@ https://fmjar.caioa.link/json/adult.json
 
 蚂蚁仓：https://agit.ai/pinghui/xinghe/raw/branch/master/mayicang.txt
 
-### 多仓地址：
+### 多仓地址
 
 业余打发：https://pan.shangui.cc/f/XAyUd/zx.json
 
@@ -142,7 +148,7 @@ http://tv.apehn.com/xla.json
 
 https://tv.203511.xyz/0821.json
 
-### 单仓地址：
+### 单仓地址
 
 心魔线路：https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json
 
@@ -392,56 +398,56 @@ https://leezn.github.io/TVBox/js.json
 
 ## ★影视采集
 
-红牛资源1080p 无尽资源
+[红牛资源1080p](https://hongniuziyuan.com/) [无尽资源](https://www.wujinzy.com/)
 
 ## ★剧荒？不可能！
 
-①影猫 有趣的灵魂+丰富的标签
+[①影猫](https://www.mvcat.com/) 有趣的灵魂+丰富的标签
 
-②猫眼专业版 实时数据：电影票房+网播热度+电视收视
+[②猫眼专业版](https://piaofang.maoyan.com/dashboard) 实时数据：电影票房+网播热度+电视收视
 
-③Trakt 追踪、整理、发现
+[③Trakt](https://trakt.tv/) 追踪、整理、发现
 
-④TMDB 影视数据
+[④TMDB](https://www.themoviedb.org/) 影视数据
 
-⑤IMDB 影视数据
+[⑤IMDB](https://www.imdb.com/) 影视数据
 
-⑥Bangumi番组计划 动漫、书籍、音乐、游戏、三次元
+[⑥Bangumi番组计划](https://bangumi.tv/) 动漫、书籍、音乐、游戏、三次元
 
 ## ★YouTube油管
 
 ### ①YouTube Vanced已停止更新\*\*
 
-官网 https://vancedapp.com
+官网 [https://vancedapp.com](https://vancedapp.com)
 
-GitHub https://github.com/YTVanced/VancedManager
+GitHub [https://github.com/YTVanced/VancedManager](https://github.com/YTVanced/VancedManager)
 
-下载地址① https://d.vancedmanager.com/VancedManager\_v2.6.2.apk
+下载地址① [https://d.vancedmanager.com/VancedManager\_v2.6.2.apk](https://d.vancedmanager.com/VancedManager\_v2.6.2.apk)
 
-下载地址②密码f22q https://tansuo.lanzoub.com/b017flgfg
+下载地址②密码f22q [https://tansuo.lanzoub.com/b017flgfg](https://tansuo.lanzoub.com/b017flgfg)
 
 安装方法：
 
 先装Manager再进Manager里面装microG 最后装YouTube Vanced和YouTube Music Vanced
 
-详细介绍点击这里 https://vancedmanager.com
+详细介绍点击这里 [https://vancedmanager.com](https://vancedmanager.com)
 
 ### ②NewPipe
 
-官网 https://newpipe.net
+官网 [https://newpipe.net](https://newpipe.net)
 
-GitHub https://github.com/TeamNewPipe/NewPipe
+GitHub [https://github.com/TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
 
-下载 https://github.com/TeamNewPipe/NewPipe/releases
+下载 [https://github.com/TeamNewPipe/NewPipe/releases](https://github.com/TeamNewPipe/NewPipe/releases)
 
 YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanced的有力补充
 
 ### ③Pute Tuber
 
-官网 https://www.puretuber.com/
+官网 [https://www.puretuber.com/](https://www.puretuber.com/)
 
 ### ④重置版
 
-APKFab Vanced Official - Block All Ads For Tube Vanced
+[APKFab Vanced Official - Block All Ads For Tube Vanced](https://apkfab.com/zh/vanced-official-block-all-ads-for-tube-vanced/com.biomes.vanced)
 
-LITEAPKS YouTube ReVanced
+[LITEAPKS YouTube ReVanced](https://liteapks.com/youtube-revanced.html)
