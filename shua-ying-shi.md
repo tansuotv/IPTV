@@ -14,6 +14,26 @@ layout:
 
 # 📽 刷影视
 
+## ★影视点播 即点即看
+
+[厂长资源](https://www.czzy.tv/)　[茶杯狐](https://www.cupfox.app/)　[可乐影视](http://klyingshi.vip/)　[影视工场](https://www.ysgc.fun/)　[吼吼](https://hoho.tv/)　[8K影视](http://www.8kvod.com/)　[剧迷](https://gimytv.com/)
+
+[南柯电影](https://www.nkdyw.com/)　[NO视频](https://www.novipnoad.com/)　[555电影](https://www.555dy.com/)　[天天影院](https://www.ttkb.cc/)　[天空影视](https://www.tkznp.com/)　[大师兄影视](https://dsxys.pro/)
+
+[低端影视](https://ddys.tv/)　[电影盒子](https://www.dybox1.com/)　[极客影院](https://www.jiketv.com/)　[Nike影视](https://www.ajeee.com/)　[快追番](http://www.kuaizhuifan.xyz/)　[电影先生](https://www.dyxs.vip/)
+
+[69美剧](https://www.69mj.com/)　[在线之家](https://www.zxzj.site/)　[星视界](https://histar.tv/)　[泥视频](https://www.nivod.tv/)
+
+## ★不知道看啥？
+
+### 专业数据
+
+[猫眼专业版](https://piaofang.maoyan.com/dashboard/web-heat)　[云合霸屏榜](https://www.enlightent.cn/sixiang/rank/bp)　[骨朵剧集榜](http://data.guduodata.com/)　[艺恩娱数](https://ys.endata.cn/DataMarket/Index)
+
+### 微博
+
+[灯塔](https://weibo.com/u/6858267513)　[德塔文](https://weibo.com/u/1104220301)　[Vlinkage](https://weibo.com/vlink)
+
 ## ★大佬应用集合
 
 [太阳云盘](http://www.teyonds.com/)　[阿虚同学](https://axutongxue.com/)　[盒子地窖](http://www.wmsio.cn/)　[IPTVindex](https://tansuo.lanzoub.com/b01592xri)　[大杂烩(密码1234)](https://wwjn.lanzout.com/b03jpibob)　[香雅情](https://www.123pan.com/s/alSeVv-lGO0A.html)
@@ -22,7 +42,9 @@ layout:
 
 ## ★TVBox原版+魔改
 
-[TVBox Github站](https://github.com/liu673cn/box)　[TVBox Takagen99(密码999)](https://wws.lanzouv.com/b03j4ulyh)　[TVBox开源版(密码123)](https://tsq.lanzouf.com/b0c4nr91c)　[可视TVMax(密码54jb)](https://wwhm.lanzoub.com/b0es81t8j)　[喵影视TV](https://teyonds.lanzouw.com/s/MeowTVS)
+[TVBox Github站](https://github.com/liu673cn/box)　[TVBox Takagen99(密码999)](https://wws.lanzouv.com/b03j4ulyh)　[TVBox开源版(密码123)](https://tsq.lanzouf.com/b0c4nr91c)
+
+[可视TVMax(密码54jb)](https://wwhm.lanzoub.com/b0es81t8j)　[喵影视TV](https://teyonds.lanzouw.com/s/MeowTVS)
 
 ### 影视仓TV版
 
@@ -451,3 +473,25 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 [APKFab Vanced Official - Block All Ads For Tube Vanced](https://apkfab.com/zh/vanced-official-block-all-ads-for-tube-vanced/com.biomes.vanced)
 
 [LITEAPKS YouTube ReVanced](https://liteapks.com/youtube-revanced.html)
+
+## ★影视搜索推荐
+
+[电影淘淘 专业电影搜索引擎](https://www.dianyingtaotao.com/)
+
+[影猫推荐 电影分类推荐](https://www.mvcat.com/)
+
+## ★影视网盘下载
+
+[YYDSfans](https://yyds.fans/)
+
+[纪录片天地](https://www.jlpcn.net/) - 国家地理、探索频道、BBC earth
+
+[片库](https://www.pianku.li/) - 全网高清影视聚合下载
+
+## ★视听应用精选
+
+[黑鸟播放器](https://guihet.com/blackbird-player.html) PC端看电视直播神器
+
+[恒星播放器](https://www.stellarplayer.com/) 视觉享受 随心而动
+
+[PotPlayer视频播放器官网](https://potplayer.daum.net/)　[另一个网址](https://potplayer.tv/?lang=zh\_CN)
