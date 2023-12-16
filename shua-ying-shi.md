@@ -16,13 +16,17 @@ layout:
 
 ## ★影视点播 即点即看
 
-[厂长资源](https://www.czzy.tv/)　[茶杯狐](https://www.cupfox.app/)　[可乐影视](http://klyingshi.vip/)　[影视工场](https://www.ysgc.fun/)　[吼吼](https://hoho.tv/)　[8K影视](http://www.8kvod.com/)　[剧迷](https://gimytv.com/)
+[厂长资源](https://www.czzy.tv/)　[茶杯狐](https://www.cupfox.app/)　[可乐影视](http://klyingshi.vip/)　[影视工场](https://www.ysgc.fun/)
 
-[南柯电影](https://www.nkdyw.com/)　[NO视频](https://www.novipnoad.com/)　[555电影](https://www.555dy.com/)　[天天影院](https://www.ttkb.cc/)　[天空影视](https://www.tkznp.com/)　[大师兄影视](https://dsxys.pro/)
+[吼吼](https://hoho.tv/)　[8K影视](http://www.8kvod.com/)　[剧迷](https://gimytv.com/)　[南柯电影](https://www.nkdyw.com/)
 
-[低端影视](https://ddys.tv/)　[电影盒子](https://www.dybox1.com/)　[极客影院](https://www.jiketv.com/)　[Nike影视](https://www.ajeee.com/)　[快追番](http://www.kuaizhuifan.xyz/)　[电影先生](https://www.dyxs.vip/)
+[NO视频](https://www.novipnoad.com/)　[555电影](https://www.555dy.com/)　[天天影院](https://www.ttkb.cc/)　[天空影视](https://www.tkznp.com/)
 
-[69美剧](https://www.69mj.com/)　[在线之家](https://www.zxzj.site/)　[星视界](https://histar.tv/)　[泥视频](https://www.nivod.tv/)
+[大师兄影视](https://dsxys.pro/)　[低端影视](https://ddys.tv/)　[电影盒子](https://www.dybox1.com/)　[极客影院](https://www.jiketv.com/)
+
+[Nike影视](https://www.ajeee.com/)　[快追番](http://www.kuaizhuifan.xyz/)　[电影先生](https://www.dyxs.vip/)　[69美剧](https://www.69mj.com/)
+
+[在线之家](https://www.zxzj.site/)　[星视界](https://histar.tv/)　[泥视频](https://www.nivod.tv/)
 
 ## ★不知道看啥？
 
@@ -36,9 +40,11 @@ layout:
 
 ## ★大佬应用集合
 
-[太阳云盘](http://www.teyonds.com/)　[阿虚同学](https://axutongxue.com/)　[盒子地窖](http://www.wmsio.cn/)　[IPTVindex](https://tansuo.lanzoub.com/b01592xri)　[大杂烩(密码1234)](https://wwjn.lanzout.com/b03jpibob)　[香雅情](https://www.123pan.com/s/alSeVv-lGO0A.html)
+[太阳云盘](http://www.teyonds.com/)　[阿虚同学](https://axutongxue.com/)　[盒子地窖](http://www.wmsio.cn/)　[IPTVindex](https://tansuo.lanzoub.com/b01592xri)
 
-[吾爱有三](https://wuaiyousan.lanzoui.com/b02unwved)　[423Down安卓视频](https://423down.lanzouo.com/b0f1944aj)　[烈火①TV(密码gtrt)](https://www.lanzoui.com/b481565/)　[②手机(密码a08l)](https://www.lanzoui.com/b481564/)
+[大杂烩(密码1234)](https://wwjn.lanzout.com/b03jpibob)　[香雅情](https://www.123pan.com/s/alSeVv-lGO0A.html)　[吾爱有三](https://wuaiyousan.lanzoui.com/b02unwved)
+
+[423Down安卓视频](https://423down.lanzouo.com/b0f1944aj)　[烈火①TV(密码gtrt)](https://www.lanzoui.com/b481565/)　[②手机(密码a08l)](https://www.lanzoui.com/b481564/)
 
 ## ★TVBox原版+魔改
 
@@ -92,7 +98,9 @@ TV版（电视、盒子版）目前有三个系列：
 
 ### 在线接口
 
-[电视盒子源汇总](https://czy0220.gitee.io/cyuan/)　[云星接口合集](https://www.moil.cc/10.html)　[心魔大佬](https://codeberg.org/yw88075/tvbox.git)　[黎歌の接口地址](https://www.lige.fit/tvbox)　[饭太硬接口地址](https://xn--sss604efuw.top/)　[欧歌API多线路TVBOX影视仓专用](http://tv.nxog.top/)
+[<mark style="color:red;">电视盒子源汇总</mark>](https://czy0220.gitee.io/cyuan/)　[<mark style="color:red;">云星接口合集</mark>](https://www.moil.cc/10.html)　[<mark style="color:red;">心魔大佬</mark>](https://codeberg.org/yw88075/tvbox.git)　[<mark style="color:red;">黎歌の接口地址</mark>](https://www.lige.fit/tvbox)
+
+[<mark style="color:red;">饭太硬接口地址</mark>](https://xn--sss604efuw.top/)　[<mark style="color:red;">欧歌API多线路TVBOX影视仓专用</mark>](http://tv.nxog.top/)
 
 本地接口：　[-=云星日记TVBox本地接口=-](https://itvbox.lanzoub.com/b0erx68gf) 密码：4e93 本地+在线多仓 (优选): clan://localhost/TVBox/lib/ksck.json
 

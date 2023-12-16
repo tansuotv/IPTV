@@ -14,6 +14,38 @@ layout:
 
 # 🖥 好应用
 
+## ★导航网站
+
+[果核导航](https://dh.ghxi.com/)　[龙轩导航](http://ilxdh.com/)　[喜欢书签](https://www.likebookmark.com/)　[磁力天堂](https://btlm.cc/)
+
+[考拉新媒体导航](https://www.kaolamedia.com/)　[简视频导航](https://www.aewz.com/)　[AI手册](https://aishouce.com/)　[AI应用导航](https://www.aigc.wtf/)
+
+## ★AI工具：绘画图片视频燃爆！
+
+普通人都能用的AI网站，无须安装软件，即点即用！<mark style="color:red;">注意：需要爬出去。</mark>
+
+[临时邮箱](https://www.linshiyouxiang.net/)　[中英翻译](https://translate.google.com/)
+
+[ADOBE FireFly\[绘画作图\]](https://firefly.adobe.com/)　[GEN2 Runway\[创作视频\]](https://runwayml.com/)　[TensorArt\[模型生图\]](https://tensor.art/)
+
+## ★IDM激活重置
+
+当之无愧的下载神器，电脑必装软件！
+
+[官网](https://www.internetdownloadmanager.com/)　[GitHub-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script)　[Reset-Trail工具](https://tansuo.lanzoub.com/iq7ti1dw0ugd)
+
+## ★HiBit Uninstaller
+
+官方免费、无需破解、没有弹窗、没有广告，纯粹的良心软件！体积小巧仅4M！强力卸载、清除垃圾、注册表备份扫描清理、服务、进程、启动项、计划任务……功能超乎想象！吊打国内管家类软件！
+
+[官网](http://hibitsoft.ir/Uninstaller.html)　[蓝奏云盘下载](https://tansuo.lanzoub.com/iyBfH1a5089e)
+
+## ★LocalSend
+
+免费好用 开源共享 简洁无广 Windows macOS Linux Android iOS 多平台/快速/稳定/无损传输文件
+
+[官网](https://localsend.org/)　[Github站](https://github.com/localsend/localsend)　[安卓手机版](https://tansuo.lanzoub.com/izzrJ19u0byb)　[Win64位绿色免安装版](https://tansuo.lanzoub.com/iS2by19u0c0d)
+
 ## ★魔法
 
 CloudFlare Workers代码 [https://github.com/3Kmfi6HP/EDtunnel/blob/main/\_worker.js](https://github.com/3Kmfi6HP/EDtunnel/blob/main/\_worker.js)

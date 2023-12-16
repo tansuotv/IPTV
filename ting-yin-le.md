@@ -14,6 +14,24 @@ layout:
 
 # 🎵 听音乐
 
+## ★洛雪音乐助手
+
+洛雪音乐助手 LX Music 开源共享 搜我所想
+
+官网：[https://github.com/lyswhut](https://github.com/lyswhut)
+
+桌面版：支持WIN、Mac OS、Linux [https://github.com/lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
+
+安卓版：[https://github.com/lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)
+
+[<mark style="color:red;">安卓复活版</mark>](https://tansuo.lanzoub.com/irvt11ei10lg)
+
+[<mark style="color:red;">Win64版绿色免安装特别复活版</mark>](https://tansuo.lanzoub.com/iGRgf1d3uwfa)
+
+[使用说明](https://www.lckp.top/thing/lx-music-desktop/)
+
+[最重要的音源](https://tansuo.lanzoub.com/iM5T81ei12qd)
+
 ## ★Spotify全家桶
 
 如何在 PC/Mac 上破解 Spotify Premium \[2023 年最佳方法]
@@ -24,9 +42,11 @@ layout:
 
 Macsome Spotify Downloader（去限制、下载歌曲）密eu8i
 
-## ★椒盐音乐:好用的安卓本地音乐播放器
+## ★椒盐音乐：好用的安卓本地音乐播放器
 
-https://moriafly.com/salt-player/
+官网：[https://moriafly.com/salt-player/](https://github.com/Moriafly/SaltPlayerSource/releases)
+
+酷安：[https://www.coolapk.com/apk/284064](https://www.coolapk.com/apk/284064)
 
 ## ★歌词适配：你要的音乐这里都有
 
@@ -43,14 +63,6 @@ https://lanzoux.com/iU1C8vlyr9c/
 官网：http://www.janz.plus/
 
 官网下载：https://zhoshuangquan.lanzouw.com/b015p86wd
-
-## ★洛雪音乐助手
-
-官网：https://github.com/lyswhut
-
-桌面版：支持WIN、Mac OS、Linux https://github.com/lyswhut/lx-music-desktop
-
-安卓版：https://github.com/lyswhut/lx-music-mobile
 
 ## ★YesPlayMusic：高颜值第三方网易云
 
