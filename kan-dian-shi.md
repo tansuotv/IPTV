@@ -20,7 +20,11 @@ layout:
 
 [DIYP台标版](https://tansuo.lanzoub.com/izIp40ve9ing)　[DIYP多版本](https://sharerw.lanzoui.com/b0aevufxe)　[派大星直播1.0.3](https://tansuo.lanzoub.com/ivTWV0qkxpni)　[TV直播](https://tansuo.lanzoub.com/iTGGy0qbhc7e)
 
+有兴趣的朋友可以[**点击这里到恩山无线论坛**](https://www.right.com.cn/forum/thread-8280295-1-1.html)研究更多DIYP版本
+
 推荐将直播源txt文件放在本地根目录相应文件夹内，如DIYP文件夹。txt文件名 1#央视.txt 2#卫视.txt 按此排序
+
+[https://raw.githubusercontent.com/tansuotv/IPTVindex/main/tv/tv.txt](https://raw.githubusercontent.com/tansuotv/IPTVindex/main/tv/tv.txt)
 
 ### 支持m3u源
 
