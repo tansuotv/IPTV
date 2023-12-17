@@ -14,6 +14,10 @@ layout:
 
 # 🎵 听音乐
 
+## ★本地听歌Android 音乐播放器
+
+[少数派推荐](https://sspai.com/post/77789)
+
 ## ★洛雪音乐助手
 
 洛雪音乐助手 LX Music 开源共享 搜我所想
