@@ -15,6 +15,8 @@ layout:
 
 # 📋 首页声明
 
+<mark style="background-color:yellow;">**注意：需要输入www才能打开，也就是**</mark>** **<mark style="color:red;background-color:yellow;">**www**</mark><mark style="background-color:yellow;">**.iptvindex.com**</mark>
+
 <mark style="color:red;">**2023年12月16日周六21:40，IPTVindex正式搬迁至GitBook，优化多终端访问体验。**</mark>
 
 <mark style="color:red;">**PC界面右上角可切换白天黑夜场景，更可直接搜索全站。**</mark>
