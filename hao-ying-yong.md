@@ -14,6 +14,14 @@ layout:
 
 # 🖥 好应用
 
+## ★网盘搜索引擎
+
+[PanSearch](https://www.pansearch.me)　[YaPan](https://yapan.io/)　[西瓜搜搜](http://www.xgsoso.com/)　[兄弟盘](https://xiongdipan.com)
+
+[网盘之家](http://www.wowenda.com)　[盘友圈](https://panyq.com)　[皮卡搜索](https://www.pikaso.top)　[懒盘分享](https://lzpanx.com)
+
+[学霸盘](https://www.xuebapan.com)　[4K影视小站](https://4kysxz.top)
+
 ## ★导航网站
 
 [果核导航](https://dh.ghxi.com/)　[龙轩导航](http://ilxdh.com/)　[喜欢书签](https://www.likebookmark.com/)　[磁力天堂](https://btlm.cc/)
