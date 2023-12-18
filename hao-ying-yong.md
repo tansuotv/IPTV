@@ -24,9 +24,11 @@ layout:
 
 ## ★导航网站
 
-[果核导航](https://dh.ghxi.com/)　[龙轩导航](http://ilxdh.com/)　[喜欢书签](https://www.likebookmark.com/)　[磁力天堂](https://btlm.cc/)
+[果核导航](https://dh.ghxi.com/)　[龙轩导航](http://ilxdh.com/)　[喜欢书签](https://www.likebookmark.com/)
 
-[考拉新媒体导航](https://www.kaolamedia.com/)　[简视频导航](https://www.aewz.com/)　[AI手册](https://aishouce.com/)　[AI应用导航](https://www.aigc.wtf/)
+[磁力天堂](https://btlm.cc/)　[考拉新媒体导航](https://www.kaolamedia.com/)　[简视频导航](https://www.aewz.com/)
+
+[AI工具集导航](https://ai-bot.cn/)　[AI手册](https://aishouce.com/)　[AI应用导航](https://www.aigc.wtf/)
 
 ## ★AI工具：绘画图片视频燃爆！
 
