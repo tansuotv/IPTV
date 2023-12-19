@@ -42,7 +42,7 @@ layout:
 
 [太阳云盘](http://www.teyonds.com/)　[阿虚同学](https://axutongxue.com/)　[盒子地窖](http://www.wmsio.cn/)　[IPTVindex](https://tansuo.lanzoub.com/b01592xri)
 
-[大杂烩(密码1234)](https://wwjn.lanzout.com/b03jpibob)　[香雅情](https://www.123pan.com/s/alSeVv-lGO0A.html)　[吾爱有三](https://wuaiyousan.lanzoui.com/b02unwved)
+[大杂烩(密码1234)](https://wwjn.lanzout.com/b03jpibob)　[香雅情](https://www.123pan.com/s/alSeVv-lGO0A.html)　[吾爱有三](https://wuaiyousan.lanzoui.com/b02unwved)　[乐享汇Fans(密码YBKZ)](https://www.123pan.com/s/4fCbVv-GYfpA.html)
 
 [423Down安卓视频](https://423down.lanzouo.com/b0f1944aj)　[烈火①TV(密码gtrt)](https://www.lanzoui.com/b481565/)　[②手机(密码a08l)](https://www.lanzoui.com/b481564/)
 
@@ -52,15 +52,17 @@ layout:
 
 [可视TVMax(密码54jb)](https://wwhm.lanzoub.com/b0es81t8j)　[喵影视TV](https://teyonds.lanzouw.com/s/MeowTVS)
 
-### 影视仓TV版
+### <mark style="color:red;">影视仓</mark>
+
+#### TV版
 
 [TV版5.0.15](https://tansuo.lanzoub.com/b01592xri)　[V4版4.0.34](https://tansuo.lanzoub.com/ing340zz3vje)　[V3版3.0.32（车载可用）](https://tansuo.lanzoub.com/iPg311hmqjde)
 
-### 影视仓安卓手机版
+#### 安卓手机版
 
 [手机版2.0.11](https://tansuo.lanzoub.com/b01592xri)　[影音壳子](https://liucn.lanzouf.com/iZlVl0jsm5kf)　[EasyBox](https://tansuo.lanzoub.com/ioKt70qboiej)
 
-### 来自安卓哥开发的影视仓介绍
+#### 来自安卓哥开发的影视仓介绍
 
 手机版以2.0....开头，目前功能已日臻完美。
 
@@ -71,6 +73,14 @@ TV版（电视、盒子版）目前有三个系列：
 　★ 4.0版，适合安卓版本5.0及以上使用。为目前稳定版本。
 
 　★ 5.0版，重构底层数据后发布的最新版本，速度更快体验更佳，适合安卓5.0以上系统；可能还存在某些稳定性问题。
+
+### <mark style="color:red;">蜂蜜影视</mark>
+
+后续升级可直接在APP中完成，比影视仓更加方便。
+
+[TV版](https://wwfx.lanzouw.com/b04elfplg)密码cae7）　[手机版](https://wwfx.lanzouw.com/b04elfpkf)（密码：6qfu）
+
+[123盘合集包含TV版和手机版](https://www.123pan.com/s/4fCbVv-cnfpA.html)（密码：BJhK）
 
 ## ★稳定的阿里云盘
 
@@ -106,13 +116,23 @@ TV版（电视、盒子版）目前有三个系列：
 
 clan://localhost/TVBox/lib/99.json
 
-### 20231212更新大量接口
+### <mark style="color:red;">20231219更新大量接口</mark>
 
-饭太硬：http://www.饭太硬.top/tv
+**乐享汇接口：**
+
+一服 https://too.st/6s0　https://too.st/6s1
+
+二服 https://too.st/6pj　https://too.st/6pk
+
+**饭太硬接口：**
+
+http://www.饭太硬.top/tv
 
 饭太硬备1：http://fan.xxooo.cf/tv
 
 饭太硬备2：http://fan.888484.xyz/tv
+
+**其他：**
 
 http://xzweb.top/cs/影视接口/main/hys4k.json
 
