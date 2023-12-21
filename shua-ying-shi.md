@@ -1,4 +1,5 @@
 ---
+description: 20231221更新影视仓手机版至最新2.0.12
 layout:
   title:
     visible: true
