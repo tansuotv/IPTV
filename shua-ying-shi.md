@@ -52,7 +52,7 @@ layout:
 
 [可视TVMax(密码54jb)](https://wwhm.lanzoub.com/b0es81t8j)　[喵影视TV](https://teyonds.lanzouw.com/s/MeowTVS)
 
-### <mark style="color:red;">影视仓</mark>
+### <mark style="color:red;">影视仓（强烈推荐）</mark>
 
 #### TV版
 
@@ -60,7 +60,7 @@ layout:
 
 #### 安卓手机版
 
-[手机版2.0.11](https://tansuo.lanzoub.com/b01592xri)　[影音壳子](https://liucn.lanzouf.com/iZlVl0jsm5kf)　[EasyBox](https://tansuo.lanzoub.com/ioKt70qboiej)
+[手机版2.0.12](https://tansuo.lanzoub.com/ilMk31im471e)　[影音壳子](https://liucn.lanzouf.com/iZlVl0jsm5kf)　[EasyBox](https://tansuo.lanzoub.com/ioKt70qboiej)
 
 #### 来自安卓哥开发的影视仓介绍
 
@@ -74,7 +74,7 @@ TV版（电视、盒子版）目前有三个系列：
 
 　★ 5.0版，重构底层数据后发布的最新版本，速度更快体验更佳，适合安卓5.0以上系统；可能还存在某些稳定性问题。
 
-### <mark style="color:red;">蜂蜜影视</mark>
+### <mark style="color:red;">蜂蜜影视（强烈推荐）</mark>
 
 后续升级可直接在APP中完成，比影视仓更加方便。
 
