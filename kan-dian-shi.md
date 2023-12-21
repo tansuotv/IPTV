@@ -14,6 +14,10 @@ layout:
 
 # 📺 看电视
 
+## ★随时随地 想看就看（国家队直播）
+
+[央视网直播大全](https://tv.cctv.com/live)　
+
 ## ★Install Apk（无直播源APK，自定义电视台列表）
 
 ### 支持txt源
