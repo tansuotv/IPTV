@@ -1,5 +1,5 @@
 ---
-description: 20231223增加一些奇怪地方的直播；20231222更新范明明直播源。
+description: 20231223增加一些奇奇怪怪的直播；20231222更新范明明直播源。
 layout:
   title:
     visible: true
@@ -14,6 +14,12 @@ layout:
 ---
 
 # 📺 看电视
+
+## ★随时随地 想看就看 官方直播 稳定可靠
+
+[央视网直播大全](https://tv.cctv.com/live)　[IPTV444](https://www.iptv444.com)　[香港无线新闻](https://news.tvb.com/tc/live/83)　[香港有线HOY TV](https://hoy.tv/live?channel\_no=77)
+
+[皮克直播](https://piko.live/c/news)　[YouTube直播](https://www.youtube.com/results?search\_query=%E6%96%B0%E9%97%BB+%E7%9B%B4%E6%92%AD\&sp=EgJAAQ%253D%253D)
 
 ## ★第一步：安装Apk（无直播源APK，自定义电视台列表）
 
@@ -126,12 +132,6 @@ https://iptv-org.github.io/iptv/index.nsfw.m3u
 https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u
 
 https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u
-
-## ★随时随地 想看就看 官方直播 稳定可靠
-
-[央视网直播大全](https://tv.cctv.com/live)　[IPTV444](https://www.iptv444.com)　[香港无线新闻](https://news.tvb.com/tc/live/83)　[香港有线HOY TV](https://hoy.tv/live?channel\_no=77)
-
-[皮克直播](https://piko.live/c/news)　[YouTube直播](https://www.youtube.com/results?search\_query=%E6%96%B0%E9%97%BB+%E7%9B%B4%E6%92%AD\&sp=EgJAAQ%253D%253D)
 
 ## ★2024最新全球电视IPTV直播源吸星大法 解压密码 tansuo.tv
 
