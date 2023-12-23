@@ -131,7 +131,7 @@ https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u
 
 [央视网直播大全](https://tv.cctv.com/live)　[IPTV444](https://www.iptv444.com)　[香港无线新闻](https://news.tvb.com/tc/live/83)　[香港有线HOY TV](https://hoy.tv/live?channel\_no=77)
 
-[台视新闻](https://www.youtube.com/watch?v=xL0ch83RAK8)　[TVBS新闻台](https://www.youtube.com/watch?v=2mCSYvcfhtc)　[东森新闻](https://www.youtube.com/watch?v=S5WOGu2HSes)　[中天新闻](https://piko.live/youtube/oIgbl7t0S\_w)
+[皮克直播](https://piko.live/c/news)　[YouTube直播](https://www.youtube.com/results?search\_query=%E7%9B%B4%E6%92%AD)
 
 ## ★2024最新全球电视IPTV直播源吸星大法 解压密码 tansuo.tv
 
