@@ -39,6 +39,8 @@ layout:
 
 ## ★第二步：导入EPG（各地不同，哪个OK用哪个）
 
+<mark style="background-color:yellow;">**EPG的作用是显示节目信息，回看和直播时标定节目内容和时间点，如果不在意也可以不用导入。**</mark>
+
 http://epg.51zmt.top:8000/api/diyp/
 
 https://epg.112114.xyz
@@ -125,9 +127,9 @@ https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u
 
 https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u
 
-## ★随时随地 想看就看（国家队直播）
+## ★随时随地 想看就看
 
-[央视网直播大全](https://tv.cctv.com/live)　
+[央视网直播大全](https://tv.cctv.com/live)　[IPTV444](https://www.iptv444.com)无线新闻
 
 ## ★2024最新全球电视IPTV直播源吸星大法 解压密码 tansuo.tv
 
