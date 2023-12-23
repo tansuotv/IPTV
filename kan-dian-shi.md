@@ -1,5 +1,5 @@
 ---
-description: 20231223增加香港台湾等直播；20231222更新范明明直播源；20231221增加国家队直播，更新更多直播源。
+description: 20231223增加一些奇怪地方的直播；20231222更新范明明直播源。
 layout:
   title:
     visible: true
@@ -131,7 +131,7 @@ https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u
 
 [央视网直播大全](https://tv.cctv.com/live)　[IPTV444](https://www.iptv444.com)　[香港无线新闻](https://news.tvb.com/tc/live/83)　[香港有线HOY TV](https://hoy.tv/live?channel\_no=77)
 
-[皮克直播](https://piko.live/c/news)　[YouTube直播](https://www.youtube.com/results?search\_query=%E7%9B%B4%E6%92%AD)
+[皮克直播](https://piko.live/c/news)　[YouTube直播](https://www.youtube.com/results?search\_query=%E6%96%B0%E9%97%BB+%E7%9B%B4%E6%92%AD\&sp=EgJAAQ%253D%253D)
 
 ## ★2024最新全球电视IPTV直播源吸星大法 解压密码 tansuo.tv
 
