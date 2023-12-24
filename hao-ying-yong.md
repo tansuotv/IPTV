@@ -1,5 +1,5 @@
 ---
-description: 20231219增加网盘搜索引擎
+description: 20231224更新李跳跳续命方法；20231219增加网盘搜索引擎。
 layout:
   title:
     visible: true
@@ -14,6 +14,14 @@ layout:
 ---
 
 # 🖥 好应用
+
+## ★李跳跳2.2正式版及续命方法
+
+[下载2.2正式版](https://tansuo.lanzoub.com/iLua80sf28cb)　[自定义规则](https://snoopy1866.github.io/LiTiaotiao-Custom-Rules/)
+
+2023年8月24日，李跳跳收到鹅厂律师函，被迫停更下架。
+
+使用以上方法开启续命模式。如果自定义规则无法打开，请使用科学方法。
 
 ## ★网盘搜索引擎
 
