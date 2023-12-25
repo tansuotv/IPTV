@@ -21,7 +21,7 @@ layout:
 
 [皮克直播](https://piko.live/c/news)　[YouTube直播](https://www.youtube.com/results?search\_query=%E6%96%B0%E9%97%BB+%E7%9B%B4%E6%92%AD\&sp=EgJAAQ%253D%253D)
 
-## ★第一步：安装Apk（无直播源APK，自定义电视台列表）
+## ★第一步：安装Apk（空壳无直播源，自定义电视台列表）
 
 ### 支持txt源的应用
 
