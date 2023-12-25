@@ -1,5 +1,5 @@
 ---
-description: 20231223增加一些奇奇怪怪的直播；20231222更新范明明直播源。
+description: 20231225更新TiviMate老巢；20231223增加一些奇奇怪怪的直播；20231222更新范明明直播源。
 layout:
   title:
     visible: true
@@ -36,6 +36,8 @@ layout:
 ### 支持m3u源的应用
 
 [IPTV PRO 破解版](https://www.423down.com/9788.html)　[TiviMate 汉化解锁](https://tansuo.lanzoub.com/iCe7L0z3vweb)
+
+[TiviMate各种版本](https://appel-hh.de/index.php?dir=apk/TiviMate/) 各种版本随意下，下载最多的据说是破解版。4.7据说不完美，4.6.1还不错。
 
 **Github托管直播源打不开：地址前增加**　<mark style="color:red;">https://mirror.ghproxy.com/</mark>　**即可**
 
