@@ -1,5 +1,5 @@
 ---
-description: 20231225增加gkd；20231224更新李跳跳续命方法；20231219增加网盘搜索引擎。
+description: 20231225增加当贝桌面及gkd；20231224更新李跳跳续命方法；20231219增加网盘搜索引擎。
 layout:
   title:
     visible: true
@@ -14,6 +14,16 @@ layout:
 ---
 
 # 🖥 好应用
+
+## ★当贝桌面4.17版纯净绿色版
+
+By: 涛哥破解-首发
+
+去除更新去除启动广告　去除首页5个预装软件　去除右上角LOGO
+
+去除电视必备　去除精选应用　去除已知内置广告　关闭X86平台使用
+
+[蓝奏盘下载](https://tansuo.lanzouv.com/ipiVr1ixzv4d)　[123云盘下载](https://www.123pan.com/s/Wby0Vv-PYEod.html)
 
 ## ★gkd
 
