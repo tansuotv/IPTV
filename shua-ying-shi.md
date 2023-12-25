@@ -17,9 +17,9 @@ layout:
 
 ## ★影视点播 即点即看
 
-[厂长资源](https://www.czzy.tv/)　[茶杯狐](https://www.cupfox.app/)　[可乐影视](http://klyingshi.vip/)　[影视工场](https://www.ysgc.fun/)
+[厂长资源](https://www.czzy.tv/)　[可乐影视](http://klyingshi.vip/)　[影视工场](https://www.ysgc.fun/)　[LIBVIO](https://www.libvio.app/)
 
-[吼吼](https://hoho.tv/)　[8K影视](http://www.8kvod.com/)　[剧迷](https://gimytv.com/)　[南柯电影](https://www.nkdyw.com/)
+[吼吼](https://hoho.tv/)　[8K影视](http://www.8kvod.com/)　[剧迷](https://gimytv.com/)　[南柯电影](https://www.nkdyw.com/)　[电影驿站](https://dy.sy/)
 
 [NO视频](https://www.novipnoad.com/)　[555电影](https://www.555dy.com/)　[天天影院](https://www.ttkb.cc/)　[天空影视](https://www.tkznp.com/)
 
@@ -27,7 +27,17 @@ layout:
 
 [Nike影视](https://www.ajeee.com/)　[快追番](http://www.kuaizhuifan.xyz/)　[电影先生](https://www.dyxs.vip/)　[69美剧](https://www.69mj.com/)
 
-[在线之家](https://www.zxzj.site/)　[星视界](https://histar.tv/)　[泥视频](https://www.nivod.tv/)
+[在线之家](https://www.zxzj.site/)　[星视界](https://histar.tv/)　[泥视频](https://www.nivod.tv/)　[爱看机器人](https://www.ikanbot.com/)
+
+[片库网①](https://www.piankutv.cc/)　[片库网②](https://yuheqz.com/)　[片库网③](https://www.huameihangkong.com/)
+
+[美剧天堂](http://mjtt.tv)
+
+**无名小站（需注册）**
+
+国际线路：[https://www.btnull.net](https://www.btnull.net) [https://www.btnull.org](https://www.btnull.org) [https://www.btnull.si](https://www.btnull.si)
+
+大陆优化线路：[https://www.btnull.nu](https://www.btnull.nu) [https://www.btnull.fun](https://www.btnull.fun) [https://www.btnull.in](https://www.btnull.in)
 
 ## ★不知道看啥？
 
@@ -35,9 +45,9 @@ layout:
 
 [猫眼专业版](https://piaofang.maoyan.com/dashboard/web-heat)　[云合霸屏榜](https://www.enlightent.cn/sixiang/rank/bp)　[骨朵剧集榜](http://data.guduodata.com/)　[艺恩娱数](https://ys.endata.cn/DataMarket/Index)
 
-### 微博
+### 微博及其他
 
-[灯塔](https://weibo.com/u/6858267513)　[德塔文](https://weibo.com/u/1104220301)　[Vlinkage](https://weibo.com/vlink)
+[灯塔](https://weibo.com/u/6858267513)　[德塔文](https://weibo.com/u/1104220301)　[Vlinkage](https://weibo.com/vlink)　[茶杯狐](https://www.cupfox.app/)
 
 ## ★大佬应用集合
 
