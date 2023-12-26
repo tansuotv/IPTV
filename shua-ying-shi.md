@@ -1,5 +1,5 @@
 ---
-description: 20231225更新影视点播即点即看；20231221更新影视仓手机版至最新2.0.12。
+description: 20231226更新影视仓版本及大量好用接口；20231225更新影视点播即点即看；20231221更新影视仓手机版至最新2.0.12。
 layout:
   title:
     visible: true
@@ -67,13 +67,17 @@ layout:
 
 #### TV版
 
-[TV版5.0.15](https://tansuo.lanzoub.com/b01592xri)　[V4版4.0.34](https://tansuo.lanzoub.com/ing340zz3vje)　[V3版3.0.32（车载可用）](https://tansuo.lanzoub.com/iPg311hmqjde)
+[TV版5.0.16](https://tansuo.lanzouv.com/iMvY81j0b7nc)　[V4版4.0.34](https://tansuo.lanzoub.com/ing340zz3vje)　[V3版3.0.32（车载可用）](https://tansuo.lanzoub.com/iPg311hmqjde)
 
 #### 安卓手机版
 
-[手机版2.0.12](https://tansuo.lanzoub.com/ilMk31im471e)　[影音壳子](https://liucn.lanzouf.com/iZlVl0jsm5kf)　[EasyBox](https://tansuo.lanzoub.com/ioKt70qboiej)
+[手机版2.0.14](https://tansuo.lanzouv.com/ik5u11j0b8ni)　[影音壳子](https://liucn.lanzouf.com/iZlVl0jsm5kf)　[EasyBox](https://tansuo.lanzoub.com/ioKt70qboiej)
 
 #### 来自安卓哥开发的影视仓介绍
+
+<figure><img src=".gitbook/assets/640.jpg" alt="" width="375"><figcaption><p>影视仓不同颜色版本</p></figcaption></figure>
+
+目前影视仓总共有3个发行版本，<mark style="color:blue;">蓝色</mark>和<mark style="color:red;">红色</mark>图标为手机版本，适配手机最好，竖屏形式。不同之处在于<mark style="color:blue;">蓝色是街机游戏版</mark>，提供了街机模拟器，小霸王，世嘉等模拟器，用来回味童年经典。<mark style="color:red;">红色版本是短视频版本</mark>，内置了快手短视频。<mark style="color:orange;">橙色版本是横屏版本</mark>，主要用于TV端，或者平板，手机版也可用于平板，看自己需求，但是手机版不可安装到电视端，没有适配，如果你需要在电视端安装，安装橙色版本。
 
 手机版以2.0....开头，目前功能已日臻完美。
 
@@ -89,7 +93,7 @@ TV版（电视、盒子版）目前有三个系列：
 
 后续升级可直接在APP中完成，比影视仓更加方便。
 
-[TV版](https://wwfx.lanzouw.com/b04elfplg)密码cae7）　[手机版](https://wwfx.lanzouw.com/b04elfpkf)（密码：6qfu）
+[TV版](https://wwfx.lanzouw.com/b04elfplg)（密码cae7）　[手机版](https://wwfx.lanzouw.com/b04elfpkf)（密码：6qfu）
 
 [123盘合集包含TV版和手机版](https://www.123pan.com/s/4fCbVv-cnfpA.html)（密码：BJhK）
 
@@ -127,21 +131,75 @@ TV版（电视、盒子版）目前有三个系列：
 
 clan://localhost/TVBox/lib/99.json
 
-### <mark style="color:red;">20231219更新大量接口</mark>
+### <mark style="color:red;">20231226更新大量接口</mark>
 
-**乐享汇接口：**
+**影视仓安卓开发哥推荐的接口**
 
-一服 https://too.st/6s0　https://too.st/6s1
+```
+http://m.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌
+```
 
-二服 https://too.st/6pj　https://too.st/6pk
+```
+http://我不是.肥猫.live/接口禁止贩卖
+```
 
-**饭太硬接口：**
+```
+http://xhww.fun:63/小米/DEMO.json
+```
 
+```
+https://tvkj.top/DC/ysc/tvkj/svip.json
+```
+
+{% code overflow="wrap" %}
+```
+https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
+```
+{% endcode %}
+
+```
+http://饭太硬.top/tv
+```
+
+```
+http://rihou.cc:88/荷城茶秀
+```
+
+**乐享汇接口**
+
+一服
+
+```
+https://too.st/6s0
+```
+
+```
+https://too.st/6s1
+```
+
+二服
+
+```
+https://too.st/6pj
+```
+
+```
+https://too.st/6pk
+```
+
+**饭太硬接口**
+
+```
 http://www.饭太硬.top/tv
+```
 
-饭太硬备1：http://fan.xxooo.cf/tv
+```
+http://fan.xxooo.cf/tv
+```
 
-饭太硬备2：http://fan.888484.xyz/tv
+```
+http://fan.888484.xyz/tv
+```
 
 **其他：**
 
