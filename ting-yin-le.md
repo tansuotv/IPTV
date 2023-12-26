@@ -1,5 +1,5 @@
 ---
-description: 20231220增加少数派推荐本地听歌软件
+description: 20231226更新Spotify破解版；20231220增加少数派推荐本地听歌软件。
 layout:
   title:
     visible: true
@@ -38,6 +38,8 @@ layout:
 [最重要的音源](https://tansuo.lanzoub.com/iM5T81ei12qd)
 
 ## ★Spotify全家桶
+
+[<mark style="color:red;">WIN1.2.13.661重制版(密码 ff9d)</mark>](https://wwbz.lanzoue.com/ipIqR0z6sdmf)　[<mark style="color:red;">安卓8.8.22.510(密码 52)</mark>](https://wwbz.lanzoue.com/i2moB0u3u8bi)
 
 [如何在 PC/Mac 上破解 Spotify Premium \[2023 年最佳方法\]](https://www.tunefab.com/zh-CN/spotify/spotify-cracked-pc.html)
 
