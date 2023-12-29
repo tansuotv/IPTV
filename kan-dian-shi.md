@@ -113,6 +113,8 @@ IPV6：https://fanmingming.com/txt?url=https://raw.githubusercontent.com/fanming
 
 ### 其他
 
+<mark style="color:red;">https://tv.smart-chat.net/iptv.txt</mark>
+
 https://gitee.com/amygotv/tvsource/raw/master/TVLives
 
 月光寶盒PRO直播源：https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt
