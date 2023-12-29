@@ -1,5 +1,5 @@
 ---
-description: 20231226更新Spotify破解版；20231220增加少数派推荐本地听歌软件。
+description: 20231229增加Radishes音乐；20231226更新Spotify破解版；20231220增加少数派推荐本地听歌软件。
 layout:
   title:
     visible: true
@@ -14,6 +14,14 @@ layout:
 ---
 
 # 🎵 听音乐
+
+## ★Radishes
+
+Radishes是指好多萝卜，可以试听和下载“灰色”歌曲哟！界面表现和功能参考 windows 网易云音乐界面和 ios 的网易云音乐。
+
+建议大家再“设置-播放源”里将音源都勾选上，不然可能会有部分歌曲无法播放。支持下载，支持搜索，下载码率最高为320k，没有无损哈，但够用了，我的耳朵和耳机都不配无损的。
+
+[Github官网](https://github.com/radishes-music/radishes)
 
 ## ★本地听歌Android 音乐播放器
 
