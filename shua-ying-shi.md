@@ -1,5 +1,5 @@
 ---
-description: 20231231更新影视仓5.0.18版本；20231226更新影视仓版本及大量好用接口；20231225更新影视点播即点即看。
+description: 20240103更新影视仓2.0.15手机版；20231231更新影视仓5.0.18版本；20231226更新影视仓版本及大量好用接口。
 layout:
   title:
     visible: true
@@ -71,7 +71,7 @@ layout:
 
 #### 安卓手机版
 
-[手机版2.0.14](https://tansuo.lanzouv.com/ik5u11j0b8ni)　[影音壳子](https://liucn.lanzouf.com/iZlVl0jsm5kf)　[EasyBox](https://tansuo.lanzoub.com/ioKt70qboiej)
+[手机版2.0.15](https://tansuo.lanzouv.com/ib9N61jwqpva)　[影音壳子](https://liucn.lanzouf.com/iZlVl0jsm5kf)　[EasyBox](https://tansuo.lanzoub.com/ioKt70qboiej)
 
 #### 来自安卓哥开发的影视仓介绍
 
