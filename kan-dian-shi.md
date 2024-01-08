@@ -1,5 +1,5 @@
 ---
-description: 20231225更新TiviMate老巢；20231223增加一些奇奇怪怪的直播；20231222更新范明明直播源。
+description: 20240106更新派大星直播；20231225更新TiviMate老巢；20231223增加一些奇奇怪怪的直播。
 layout:
   title:
     visible: true
@@ -25,13 +25,23 @@ layout:
 
 ### 支持txt源的应用
 
-[DIYP台标版](https://tansuo.lanzoub.com/izIp40ve9ing)　[DIYP多版本](https://sharerw.lanzoui.com/b0aevufxe)　[派大星直播1.0.3](https://tansuo.lanzoub.com/ivTWV0qkxpni)　[TV直播](https://tansuo.lanzoub.com/iTGGy0qbhc7e)
+[DIYP台标版](https://tansuo.lanzoub.com/izIp40ve9ing)　[DIYP多版本](https://sharerw.lanzoui.com/b0aevufxe)　[派大星直播1.0.4](https://tansuo.lanzoub.com/iciTf1k579fi)　[TV直播](https://tansuo.lanzoub.com/iTGGy0qbhc7e)
 
 有兴趣的朋友可以[**点击这里到恩山无线论坛**](https://www.right.com.cn/forum/thread-8280295-1-1.html)研究更多DIYP版本
 
 推荐将直播源txt文件放在本地根目录相应文件夹内，如DIYP文件夹。txt文件名 1#央视.txt 2#卫视.txt 按此排序
 
-[https://raw.githubusercontent.com/tansuotv/IPTVindex/main/tv/tv.txt](https://raw.githubusercontent.com/tansuotv/IPTVindex/main/tv/tv.txt)
+{% code overflow="wrap" %}
+```
+https://github.moeyy.xyz/https://raw.githubusercontent.com/tansuotv/IPTVindex/main/tv/tv.txt
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+https://github.moeyy.xyz/https://github.com/tansuotv/IPTVindex/blob/main/tv/tv.txt
+```
+{% endcode %}
 
 ### 支持m3u源的应用
 
@@ -39,7 +49,7 @@ layout:
 
 [TiviMate各种版本](https://appel-hh.de/index.php?dir=apk/TiviMate/) 各种版本随意下，下载最多的据说是破解版。4.7据说不完美，4.6.1还不错。
 
-**Github托管直播源打不开：地址前增加**　<mark style="color:red;">https://mirror.ghproxy.com/</mark>　**即可**
+**Github托管直播源打不开：地址前增加**　<mark style="color:red;">https://mirror.ghproxy.com/</mark>　**或**　<mark style="color:red;">https://github.moeyy.xyz/</mark>　**即可**
 
 **m3u源转txt源：地址前增加**　<mark style="color:red;">https://fanmingming.com/txt?url=</mark>　**即可**
 
@@ -77,7 +87,7 @@ https://epg.pw/xmltv.html?lang=zh-hant
 
 [Ftindy/IPTV-URL](https://github.com/Ftindy/IPTV-URL)　[biancangming/wtv电视直播源集合](https://github.com/biancangming/wtv)　[最新IPTV直播源推荐](https://github.com/biancangming/wtv/wiki/%E6%9C%80%E6%96%B0IPTV%E7%9B%B4%E6%92%AD%E6%BA%90m3u8%E4%B8%8B%E8%BD%BD%EF%BC%8C%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90)
 
-[恩山无线论坛](https://www.right.com.cn/forum/forum-182-1.html)
+[恩山无线论坛](https://www.right.com.cn/forum/forum-182-1.html)[1888网](https://www.yibababa.com/vod)
 
 ### fanmingming范明明
 
@@ -113,7 +123,7 @@ IPV6：https://fanmingming.com/txt?url=https://raw.githubusercontent.com/fanming
 
 ### 其他
 
-<mark style="color:red;">https://tv.smart-chat.net/iptv.txt</mark>
+https://tv.smart-chat.net/iptv.txt （已失效）
 
 https://gitee.com/amygotv/tvsource/raw/master/TVLives
 

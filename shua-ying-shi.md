@@ -1,5 +1,5 @@
 ---
-description: 20240103更新影视仓2.0.15手机版；20231231更新影视仓5.0.18版本；20231226更新影视仓版本及大量好用接口。
+description: 20240108更新影视仓最新版；20240107更新大量接口；20240103更新影视仓2.0.15手机版。
 layout:
   title:
     visible: true
@@ -65,19 +65,19 @@ layout:
 
 ### <mark style="color:red;">影视仓（强烈推荐）</mark>
 
-#### TV版
-
-[TV版5.0.18](https://tansuo.lanzouv.com/iDiAB1jhbwvc)　[V4版4.0.34](https://tansuo.lanzoub.com/ing340zz3vje)　[V3版3.0.32（车载可用）](https://tansuo.lanzoub.com/iPg311hmqjde)
-
-#### 安卓手机版
-
-[手机版2.0.15](https://tansuo.lanzouv.com/ib9N61jwqpva)　[影音壳子](https://liucn.lanzouf.com/iZlVl0jsm5kf)　[EasyBox](https://tansuo.lanzoub.com/ioKt70qboiej)
-
 #### 来自安卓哥开发的影视仓介绍
 
 <figure><img src=".gitbook/assets/640.jpg" alt="" width="375"><figcaption><p>影视仓不同颜色版本</p></figcaption></figure>
 
-目前影视仓总共有3个发行版本，<mark style="color:blue;">蓝色</mark>和<mark style="color:red;">红色</mark>图标为手机版本，适配手机最好，竖屏形式。不同之处在于<mark style="color:blue;">蓝色是街机游戏版</mark>，提供了街机模拟器，小霸王，世嘉等模拟器，用来回味童年经典。<mark style="color:red;">红色版本是短视频版本</mark>，内置了快手短视频。<mark style="color:orange;">橙色版本是横屏版本</mark>，主要用于TV端，或者平板，手机版也可用于平板，看自己需求，但是手机版不可安装到电视端，没有适配，如果你需要在电视端安装，安装橙色版本。
+目前影视仓总共有3个发行版本，<mark style="color:blue;">蓝色</mark>和<mark style="color:red;">红色</mark>图标为手机版本，适配手机最好，竖屏形式。
+
+<mark style="color:blue;">蓝色是街机游戏版</mark>，提供了街机模拟器，小霸王，世嘉等模拟器，用来回味童年经典。
+
+<mark style="color:red;">红色版本是短视频版本</mark>，内置了快手短视频。
+
+<mark style="color:orange;">橙色版本是横屏版本</mark>，主要用于TV端，或者平板。
+
+手机版也可用于平板，看自己需求，但是手机版不可安装到电视端，没有适配，如果你需要在电视端安装，安装橙色版本。
 
 手机版以2.0....开头，目前功能已日臻完美。
 
@@ -89,7 +89,11 @@ TV版（电视、盒子版）目前有三个系列：
 
 　★ 5.0版，重构底层数据后发布的最新版本，速度更快体验更佳，适合安卓5.0以上系统；可能还存在某些稳定性问题。
 
-### <mark style="color:red;">蜂蜜影视（强烈推荐）</mark>
+#### 移动云盘：[点击下载，包含以上各种版本](https://yun.139.com/link/web/?linkID=1B5C5vSkcWC0d)<mark style="color:red;">（移动用户免流量）</mark>
+
+#### 其他云盘：[蓝奏盘](https://tansuo.lanzoub.com/b01592xri)　[123云盘](https://www.123pan.com/s/Wby0Vv-MJQod.html)
+
+### <mark style="color:red;">蜂蜜影视</mark>
 
 后续升级可直接在APP中完成，比影视仓更加方便。
 
@@ -131,9 +135,9 @@ TV版（电视、盒子版）目前有三个系列：
 
 clan://localhost/TVBox/lib/99.json
 
-### <mark style="color:red;">20231226更新大量接口</mark>
+### <mark style="color:red;">20240107更新接口</mark>
 
-**影视仓安卓开发哥推荐的接口**
+**以下为多仓接口，来源于影视仓安卓开发哥、多多应用汇等大佬推荐**
 
 {% code overflow="wrap" %}
 ```
@@ -143,7 +147,93 @@ http://m.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌
 
 {% code overflow="wrap" %}
 ```
+https://duo.codered.cloud/iduo.json
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+https://duo.codered.cloud/free.json
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+https://too.st/duo
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+http://39.101.135.137:8686
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+http://8.210.232.168/fm/1.json
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+http://39.101.135.137:8686
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+https://atomgit.com/hengxing/hx/raw/master/hxzck.txt
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+https://youdu.fan/DC.txt
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+https://youdu.fan/yd/yd.json
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+http://52bsj.vip:98/wuaihouse
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+http://lin.ohphp.com/1/my.json
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+http://lin.ohphp.com/2/tvkj.json
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+https://atomgit.com/xghvrf/Xvbjffc/raw/master/Xboxb.json
+```
+{% endcode %}
+
+**以下为单仓接口**
+
+{% code overflow="wrap" %}
+```
 http://肥猫.live/
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+http://饭太硬.top/tv
 ```
 {% endcode %}
 
@@ -185,51 +275,41 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlineru
 
 {% code overflow="wrap" %}
 ```
-http://饭太硬.top/tv
+http://rihou.cc:88/荷城茶秀
 ```
 {% endcode %}
 
 {% code overflow="wrap" %}
 ```
-http://rihou.cc:88/荷城茶秀
+https://too.st/dan
 ```
 {% endcode %}
 
-**乐享汇接口**
-
-一服
-
+{% code overflow="wrap" %}
 ```
-https://too.st/6s0
+https://too.st/cha
 ```
-
-```
-https://too.st/6s1
-```
-
-二服
-
-```
-https://too.st/6pj
-```
-
-```
-https://too.st/6pk
-```
+{% endcode %}
 
 **饭太硬接口**
 
+{% code overflow="wrap" %}
 ```
 http://www.饭太硬.top/tv
 ```
+{% endcode %}
 
+{% code overflow="wrap" %}
 ```
 http://fan.xxooo.cf/tv
 ```
+{% endcode %}
 
+{% code overflow="wrap" %}
 ```
 http://fan.888484.xyz/tv
 ```
+{% endcode %}
 
 **其他：**
 
@@ -250,10 +330,6 @@ https://fmjar.caioa.link/json/adult.json
 拾光仓库：https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json
 
 幸福之家：https://sourl.cn/CkPF2y
-
-乐享汇：https://too.st/6s0
-
-恒星资料网：https://codeberg.org/hengxing/hx/raw/branch/main/1\_hxzck.txt
 
 观影：https://pan.shangui.cc/f/2xAlsx/HJCK.txt
 
@@ -282,10 +358,6 @@ http://rihou.vip:88/荷城茶秀
 小胡线路：http://xzam.cn/tv
 
 恋影线路：https://www.lianyingtv.com/fast/fast
-
-应用多多：https://jihulab.com/duomv/apps/-/raw/main/fast.json
-
-欧歌：http://tv.nxog.top/api.php?mz=xb\&id=1\&b
 
 云星日记：http://itvbox.cc/tvbox/云星日记/1.m3u8
 
