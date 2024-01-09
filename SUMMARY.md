@@ -10,6 +10,7 @@
 * [🚗 车机版](che-ji-ban.md)
 * [123云盘](https://www.123pan.com/s/Wby0Vv-MJQod.html)
 * [蓝奏盘](https://tansuo.lanzoub.com/b01592xri)
+* [Github仓库](https://github.com/tansuotv/IPTVindex)
 * [🤖 视频：探索TV](https://space.bilibili.com/377746815)
 * [🛩 联系：电报群](https://t.me/tansuo)
 * [🏎 发车★奈飞高级车](https://ihezu.zone/esf7nk)
