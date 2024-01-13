@@ -25,7 +25,7 @@ layout:
 
 ### 支持txt源的应用
 
-[DIYP台标版](https://tansuo.lanzoub.com/izIp40ve9ing)　[DIYP多版本](https://sharerw.lanzoui.com/b0aevufxe)　[派大星直播1.0.4](https://tansuo.lanzoub.com/iciTf1k579fi)　[TV直播](https://tansuo.lanzoub.com/iTGGy0qbhc7e)
+[DIYP台标版](https://tansuo.lanzoub.com/izIp40ve9ing)　[DIYP多版本](https://sharerw.lanzoui.com/b0aevufxe)　[派大星直播1.0.5](https://tansuo.lanzouo.com/ilBOj1kywj2j)　[TV直播](https://tansuo.lanzoub.com/iTGGy0qbhc7e)
 
 有兴趣的朋友可以[**点击这里到恩山无线论坛**](https://www.right.com.cn/forum/thread-8280295-1-1.html)研究更多DIYP版本
 
