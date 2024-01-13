@@ -1,5 +1,5 @@
 ---
-description: 20231229增加Radishes音乐；20231226更新Spotify破解版；20231220增加少数派推荐本地听歌软件。
+description: 20231229增加Radishes音乐；20231226更新Spotify破解版。
 layout:
   title:
     visible: true
@@ -14,6 +14,10 @@ layout:
 ---
 
 # 🎵 听音乐
+
+## ★两个好用的音乐APK
+
+[音乐搜索1.2.6](https://tansuo.lanzouo.com/iYRwN1kyxfji)　[音乐时刻1.1.0](https://tansuo.lanzouo.com/iPq601kyxfla)
 
 ## ★Radishes
 
