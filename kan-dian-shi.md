@@ -31,30 +31,6 @@ layout:
 
 推荐将直播源txt文件放在本地根目录相应文件夹内，如DIYP文件夹。txt文件名 1#央视.txt 2#卫视.txt 按此排序
 
-{% code overflow="wrap" %}
-```
-https://gitee.com/tansuotv/home/raw/master/tv.txt
-```
-{% endcode %}
-
-{% code overflow="wrap" %}
-```
-https://raw.githubusercontent.com/tansuotv/IPTVindex/main/tv/tv.txt
-```
-{% endcode %}
-
-{% code overflow="wrap" %}
-```
-https://github.moeyy.xyz/https://raw.githubusercontent.com/tansuotv/IPTVindex/main/tv/tv.txt
-```
-{% endcode %}
-
-{% code overflow="wrap" %}
-```
-https://github.moeyy.xyz/https://github.com/tansuotv/IPTVindex/blob/main/tv/tv.txt
-```
-{% endcode %}
-
 ### 支持m3u源的应用
 
 [IPTV PRO 破解版](https://www.423down.com/9788.html)　[TiviMate 汉化解锁](https://tansuo.lanzoub.com/iCe7L0z3vweb)
