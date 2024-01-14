@@ -33,6 +33,18 @@ layout:
 
 {% code overflow="wrap" %}
 ```
+https://gitee.com/tansuotv/home/raw/master/tv.txt
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+https://raw.githubusercontent.com/tansuotv/IPTVindex/main/tv/tv.txt
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
 https://github.moeyy.xyz/https://raw.githubusercontent.com/tansuotv/IPTVindex/main/tv/tv.txt
 ```
 {% endcode %}
