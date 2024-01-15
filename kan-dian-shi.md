@@ -111,29 +111,75 @@ IPV6：https://fanmingming.com/txt?url=https://raw.githubusercontent.com/fanming
 
 ### 其他
 
-https://tv.smart-chat.net/iptv.txt （已失效）
+{% code overflow="wrap" %}
+```
+http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0
+```
+{% endcode %}
 
+{% code overflow="wrap" %}
+```
+https://zzzzz.tv/tv/tv.txt
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+https://zzzzz.tv/tv/live.txt
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
 https://gitee.com/amygotv/tvsource/raw/master/TVLives
+```
+{% endcode %}
 
-月光寶盒PRO直播源：https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt
+{% code overflow="wrap" %}
+```
+https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt
+```
+{% endcode %}
 
-喵影视TV直播源：http://111.67.196.181/mtvzb.txt
+{% code overflow="wrap" %}
+```
+http://111.67.196.181/mtvzb.txt
+```
+{% endcode %}
 
-https://raw.githubusercontent.com/tansuotv/IPTVindex/main/%E6%82%A0%E5%93%89IPV6.m3u
-
-https://raw.githubusercontent.com/tansuotv/IPTVindex/main/%E6%82%A0%E5%93%89%E8%A7%A3%E6%A2%85%E6%9E%97iptv.txt
-
+```
 https://sourl.cn/y4kFym
+```
 
+{% code overflow="wrap" %}
+```
 https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/0903zh.txt
+```
+{% endcode %}
 
+{% code overflow="wrap" %}
+```
 https://tvsee.github.io/diyp/tv.txt
+```
+{% endcode %}
 
+{% code overflow="wrap" %}
+```
 https://iptv-org.github.io/iptv/index.nsfw.m3u
+```
+{% endcode %}
 
+{% code overflow="wrap" %}
+```
 https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u
+```
+{% endcode %}
 
+{% code overflow="wrap" %}
+```
 https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u
+```
+{% endcode %}
 
 ## ★2024最新全球电视IPTV直播源吸星大法 解压密码 tansuo.tv
 
