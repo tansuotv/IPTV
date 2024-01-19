@@ -1,5 +1,5 @@
 ---
-description: 20240106更新派大星直播；20231225更新TiviMate老巢；20231223增加一些奇奇怪怪的直播。
+description: 240119增加两个央视卫视直播APK，适合不好折腾的朋友使用；240106更新派大星直播；231225更新TiviMate老巢。
 layout:
   title:
     visible: true
