@@ -15,6 +15,10 @@ layout:
 
 # 📺 看电视
 
+## ★央视卫视直播APK 快速稳定
+
+[我的电视](https://github.com/lizongying/my-tv)　[CCTV浏览器](https://github.com/Eanya-Tonic/CCTV\_Viewer)
+
 ## ★随时随地 想看就看 官方直播 稳定可靠
 
 [央视网直播大全](https://tv.cctv.com/live)　[IPTV444](https://www.iptv444.com)　[香港无线新闻](https://news.tvb.com/tc/live/83)　[香港有线HOY TV](https://hoy.tv/live?channel\_no=77)
