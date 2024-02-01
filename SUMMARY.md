@@ -17,3 +17,4 @@
 * [🤖 视频：探索TV](https://space.bilibili.com/377746815)
 * [🛩 联系：电报群](https://t.me/tansuo)
 * [🔬 Google Analytics](https://analytics.google.com/)
+* [🔬 Galaxy Video Agency](https://cps.nf.video/yinhe/cps/login)
