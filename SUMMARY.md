@@ -1,7 +1,7 @@
 # Table of contents
 
-* [📋 首页声明](README.md)
-* [❤ 啊我推](a-wo-tui.md)
+* [📋 大事记](README.md)
+* [⚖ 声明墙](sheng-ming-qiang.md)
 * [📺 看电视](kan-dian-shi.md)
 * [📽 刷影视](shua-ying-shi.md)
 * [🎵 听音乐](ting-yin-le.md)
