@@ -9,7 +9,7 @@
 * [🖥 好应用](hao-ying-yong.md)
 * [🚗 车机版](che-ji-ban.md)
 * [银河录像局 次世代合租平台](yin-he-lu-xiang-ju-ci-shi-dai-he-zu-ping-tai.md)
-* [奈飞小铺-智能账号合租平台](https://ihezu.zone/esf7nk)
+* [奈飞小铺智能账号合租平台](https://ihezu.zone/esf7nk)
 * [123云盘](https://www.123pan.com/s/Wby0Vv-MJQod.html)
 * [蓝奏盘](https://tansuo.lanzoub.com/b01592xri)
 * [移动云盘UYNs](https://caiyun.139.com/m/i?105Cqi2DnY1Mq)
