@@ -15,15 +15,11 @@ layout:
 
 # 📋 首页声明
 
-**2023年12月24日平安夜，因个人精力有限，将“探索TV”与“IPTVindex”合并。**
+#### 2024年2月1日，从 [银河录像局](https://nf.video/xo7uy) 搞来特别优惠码 <mark style="color:red;">**iptvindex**</mark> 下单时输入立享93折。
 
-<mark style="background-color:yellow;">**IPTVindex网址切记前面要有**</mark>** **<mark style="color:red;background-color:yellow;">**www**</mark><mark style="background-color:yellow;">**.iptvindex.com。**</mark>
+<mark style="color:red;">**2023年12月24日平安夜，“探索TV”与“IPTVindex”合并。**</mark>
 
 <mark style="color:red;">**2023年12月16日周六21:40，IPTVindex正式搬迁至GitBook，优化多终端访问体验。**</mark>
-
-<mark style="color:red;">**PC界面右上角可切换白天黑夜场景，更可直接搜索全站。**</mark>
-
-<mark style="color:red;">**手机端搜索点击右上角放大镜。点左上角三横后，可切换场景和目录。**</mark>
 
 **★2023年4月以来，全国陆续有26家省级广播电视台、台新媒体机构联合发布了《电视频道联合维权声明》。**
 
