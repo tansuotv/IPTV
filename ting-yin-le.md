@@ -1,5 +1,5 @@
 ---
-description: 20231229增加Radishes音乐；20231226更新Spotify破解版。
+description: 20240204更新落雪音乐助手音源；20231229增加Radishes音乐；20231226更新Spotify破解版。
 layout:
   title:
     visible: true
@@ -17,7 +17,7 @@ layout:
 
 ## ★两个好用的音乐APK
 
-[~~音乐搜索1.2.6~~](https://tansuo.lanzouo.com/iYRwN1kyxfji)　[~~音乐时刻1.1.0~~](https://tansuo.lanzouo.com/iPq601kyxfla)
+[音乐搜索](https://tansuo.lanpv.com/iRFcw1n9zw6h)　[~~音乐时刻1.1.0~~](https://tansuo.lanzouo.com/iPq601kyxfla)
 
 ## ★Radishes
 
