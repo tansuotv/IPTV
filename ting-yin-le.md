@@ -47,7 +47,9 @@ Radishes是指好多萝卜，可以试听和下载“灰色”歌曲哟！界面
 
 [使用说明](https://www.lckp.top/thing/lx-music-desktop/)
 
-[最重要的音源](https://tansuo.lanzoub.com/iM5T81ei12qd)
+[最重要的★音★源★](https://tansuo.lanpv.com/iBjxd1n9xlfi)
+
+[六音软件官网：洛雪音乐助手+六音自定义音源 v1.1.0](https://www.sixyin.com/8498.html)
 
 ## ★Spotify全家桶
 
