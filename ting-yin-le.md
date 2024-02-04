@@ -17,7 +17,7 @@ layout:
 
 ## ★两个好用的音乐APK
 
-[音乐搜索1.2.6](https://tansuo.lanzouo.com/iYRwN1kyxfji)　[音乐时刻1.1.0](https://tansuo.lanzouo.com/iPq601kyxfla)
+[~~音乐搜索1.2.6~~](https://tansuo.lanzouo.com/iYRwN1kyxfji)　[~~音乐时刻1.1.0~~](https://tansuo.lanzouo.com/iPq601kyxfla)
 
 ## ★Radishes
 
