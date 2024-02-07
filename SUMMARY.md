@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📋 IPTVindex.com](README.md)
+* [📋 IPTVindex](README.md)
 * [⚖ 声明墙](sheng-ming-qiang.md)
 * [📺 看电视](kan-dian-shi.md)
 * [📽 刷影视](shua-ying-shi.md)
