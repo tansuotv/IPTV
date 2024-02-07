@@ -1,5 +1,5 @@
 ---
-description: IPTVindex里程碑记录
+description: www.iptvindex.com 里程碑记录
 layout:
   title:
     visible: true
@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# 📋 大事记
+# 📋 IPTVindex大事记
 
 **2024年2月1日，从** [**银河录像局**](https://nf.video/xo7uy) **搞来特别优惠码 **<mark style="color:red;">**iptvindex**</mark>** 下单时输入立享93折。**
 
