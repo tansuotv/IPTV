@@ -1,12 +1,12 @@
 # Table of contents
 
 * [📋 IPTVindex](README.md)
-* [⚖ 声明墙](sheng-ming-qiang.md)
+* [⚖️ 声明墙](sheng-ming-qiang.md)
 * [📺 看电视](kan-dian-shi.md)
-* [📽 刷影视](shua-ying-shi.md)
+* [📽️ 刷影视](shua-ying-shi.md)
 * [🎵 听音乐](ting-yin-le.md)
 * [📘 读小说](du-xiao-shuo.md)
-* [🖥 好应用](hao-ying-yong.md)
+* [🖥️ 好应用](hao-ying-yong.md)
 * [🚗 车机版](che-ji-ban.md)
 * [银河录像局 次世代合租平台](https://nf.video/xo7uy)
 * [奈飞小铺 智能账号合租平台](https://ihezu.zone/esf7nk)
@@ -15,6 +15,6 @@
 * [移动云盘UYNs](https://caiyun.139.com/m/i?105Cqi2DnY1Mq)
 * [Github仓库](https://github.com/tansuotv/IPTVindex)
 * [🤖 视频：探索TV](https://space.bilibili.com/377746815)
-* [🛩 联系：电报群](https://t.me/tansuo)
+* [🛩️ 联系：电报群](https://t.me/tansuo)
 * [🔬 Google Analytics](https://analytics.google.com/)
 * [🔬 Galaxy Video Agency](https://cps.nf.video/yinhe/cps/login)

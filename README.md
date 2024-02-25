@@ -15,8 +15,6 @@ layout:
 
 # 📋 IPTVindex
 
-<figure><img src=".gitbook/assets/longhexinchun.png" alt=""><figcaption><p>IPTVindex恭祝大家：新春快乐，龙行龘龘！</p></figcaption></figure>
-
 **2024年2月1日，从** [**银河录像局**](https://nf.video/xo7uy) **搞来特别优惠码 **<mark style="color:red;">**iptvindex**</mark>** 下单时输入立享93折。**
 
 **2023年12月24日平安夜，探索TV与IPTVindex合并。**
