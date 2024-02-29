@@ -135,7 +135,7 @@ TV版（电视、盒子版）目前有三个系列：
 
 clan://localhost/TVBox/lib/99.json
 
-### <mark style="color:red;">20240107更新接口</mark>
+### <mark style="color:red;">20240229更新接口</mark>
 
 **以下为多仓接口，来源于影视仓安卓开发哥、多多应用汇等大佬推荐**
 
