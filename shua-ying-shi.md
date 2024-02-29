@@ -1,5 +1,5 @@
 ---
-description: 20240108更新影视仓最新版；20240107更新大量接口；20240103更新影视仓2.0.15手机版。
+description: 20240229更新部分接口；20240108更新影视仓最新版；20240107更新大量接口。
 layout:
   title:
     visible: true
@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# 📽 刷影视
+# 📽️ 刷影视
 
 ## ★影视点播 即点即看
 
@@ -138,6 +138,26 @@ clan://localhost/TVBox/lib/99.json
 ### <mark style="color:red;">20240107更新接口</mark>
 
 **以下为多仓接口，来源于影视仓安卓开发哥、多多应用汇等大佬推荐**
+
+```
+https://gitee.com/zhaodehe/qlkj/raw/master/ys.json
+```
+
+```
+https://gitee.com/xuxiamu/xm/raw/master/xiamu.json
+```
+
+```
+https://www.qiqiguai.cn/tv/
+```
+
+```
+https://notabug.org/dongchenys/pt/raw/json/jianjie.json
+```
+
+```
+http://lin.ohphp.com/3/qg.json
+```
 
 {% code overflow="wrap" %}
 ```
