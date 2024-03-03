@@ -93,6 +93,14 @@ TV版（电视、盒子版）目前有三个系列：
 
 #### 其他云盘：[蓝奏盘](https://tansuo.lanzoub.com/b01592xri)　[123云盘](https://www.123pan.com/s/Wby0Vv-MJQod.html)
 
+### <mark style="color:red;">OK影视</mark>
+
+[蓝奏云](https://fatcat2023.lanzoum.com/b04f511yb)（密码 8676 ）
+
+版本号：点按正式版更新，长按内测版更新。
+
+leanback-4.x是电视安卓系统为4.4以下版本；java只支持java爬虫（小白直接使用）；python同时支持python和java爬虫，体积更大；v7a 32位，大部分电视只支持32位；v8a 64位，目前新款手机都支持64位。
+
 ### <mark style="color:red;">蜂蜜影视</mark>
 
 后续升级可直接在APP中完成，比影视仓更加方便。
