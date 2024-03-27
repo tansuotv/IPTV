@@ -4,9 +4,9 @@ description: 配合影视仓/影视等APP使用，接口持续更新，来源于
 
 # 🧩 接口汇
 
-## [<mark style="color:red;">★TVBox接口说明</mark>](https://github.com/dlgt7/TVbox-interface)
+## [TVBox接口说明](https://github.com/dlgt7/TVbox-interface)
 
-## <mark style="color:red;">★大佬接口汇总</mark>
+## ★大佬接口汇总
 
 [<mark style="color:red;">电视盒子源汇总</mark>](https://czy0220.gitee.io/cyuan/)　[<mark style="color:red;">云星接口合集</mark>](https://www.moil.cc/10.html)　[<mark style="color:red;">心魔大佬</mark>](https://codeberg.org/yw88075/tvbox.git)　[<mark style="color:red;">黎歌の接口地址</mark>](https://www.lige.fit/tvbox)
 
@@ -18,7 +18,7 @@ description: 配合影视仓/影视等APP使用，接口持续更新，来源于
 
 clan://localhost/TVBox/lib/99.json
 
-## <mark style="color:red;">★在线接口（持续更新）</mark>
+## ★在线接口（持续更新）
 
 ### **20240327**
 
