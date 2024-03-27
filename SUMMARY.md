@@ -4,6 +4,7 @@
 * [⚖️ 声明墙](sheng-ming-qiang.md)
 * [📺 看电视](kan-dian-shi.md)
 * [📽️ 刷影视](shua-ying-shi.md)
+* [🧩 接口汇](jie-kou-hui.md)
 * [🎵 听音乐](ting-yin-le.md)
 * [📘 读小说](du-xiao-shuo.md)
 * [🖥️ 好应用](hao-ying-yong.md)
@@ -18,4 +19,3 @@
 * [🛩️ 联系：电报群](https://t.me/tansuo)
 * [🔬 Google Analytics](https://analytics.google.com/)
 * [🔬 Galaxy Video Agency](https://cps.nf.video/yinhe/cps/login)
-* [接口](jie-kou.md)
