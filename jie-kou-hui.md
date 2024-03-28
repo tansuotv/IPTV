@@ -4,13 +4,13 @@ description: 配合影视仓/影视等APP使用，接口持续更新，来源于
 
 # 🧩 接口汇
 
-## [TVBox接口说明](https://github.com/dlgt7/TVbox-interface)
-
 ## ★大佬接口汇总
 
-[<mark style="color:red;">电视盒子源汇总</mark>](https://czy0220.gitee.io/cyuan/)　[<mark style="color:red;">云星接口合集</mark>](https://www.moil.cc/10.html)　[<mark style="color:red;">心魔大佬</mark>](https://codeberg.org/yw88075/tvbox.git)　[<mark style="color:red;">黎歌の接口地址</mark>](https://www.lige.fit/tvbox)
+[电视盒子源汇总](https://czy0220.gitee.io/cyuan/)　[云星接口合集](https://www.moil.cc/10.html)　[黎歌の接口地址](https://www.lige.fit/tvbox)
 
-[<mark style="color:red;">饭太硬接口地址</mark>](https://xn--sss604efuw.top/)　[<mark style="color:red;">欧歌API多线路TVBOX影视仓专用</mark>](http://tv.nxog.top/)
+[饭太硬接口地址](https://xn--sss604efuw.top/)　[欧歌API多线路TVBOX影视仓专用](http://tv.nxog.top/)
+
+[TVbox-interface](https://github.com/dlgt7/TVbox-interface)　[心魔大佬](https://codeberg.org/yw88075/tvbox.git)
 
 本地接口：　[-=云星日记TVBox本地接口=-](https://itvbox.lanzoub.com/b0erx68gf)　密码：4e93
 

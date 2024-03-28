@@ -15,6 +15,8 @@ layout:
 
 # 📋 IPTVindex
 
+**2024年3月27日，将** [**接口汇**](jie-kou-hui.md) **单独设立专区，方便大家及时获取更新可用的接口。**
+
 **2024年2月1日，从** [**银河录像局**](https://nf.video/xo7uy) **搞来特别优惠码 **<mark style="color:red;">**iptvindex**</mark>** 下单时输入立享93折。**
 
 **2023年12月24日平安夜，探索TV与IPTVindex合并。**
