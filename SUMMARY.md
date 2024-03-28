@@ -9,6 +9,7 @@
 * [📘 读小说](du-xiao-shuo.md)
 * [🖥️ 好应用](hao-ying-yong.md)
 * [🚗 车机版](che-ji-ban.md)
+* [🏁 常用站](chang-yong-zhan.md)
 * [银河录像局 次世代合租平台](https://nf.video/xo7uy)
 * [奈飞小铺 智能账号合租平台](https://ihezu.zone/esf7nk)
 * [123云盘](https://www.123pan.com/s/Wby0Vv-MJQod.html)
