@@ -99,6 +99,14 @@ By: 涛哥破解-首发
 
 ## ★魔法
 
+WARP Download [→点击下载](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/)
+
+{% code overflow="wrap" %}
+```
+5dxT016y-09p6T5cz-gpF69B85
+```
+{% endcode %}
+
 CloudFlare Workers代码 [https://github.com/3Kmfi6HP/EDtunnel/blob/main/\_worker.js](https://github.com/3Kmfi6HP/EDtunnel/blob/main/\_worker.js)
 
 v2rayNG 安卓版 [https://github.com/2dust/v2rayNG/releases](https://github.com/2dust/v2rayNG/releases)
