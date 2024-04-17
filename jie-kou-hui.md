@@ -1,5 +1,5 @@
 ---
-description: 配合影视仓/影视等APP使用，接口持续更新，来源于安卓开发哥等大佬。
+description: 20240417更新一批大佬接口；配合影视仓/影视等APP使用，接口持续更新，来源于安卓开发哥等大佬。
 ---
 
 # 🧩 接口汇
@@ -19,6 +19,68 @@ description: 配合影视仓/影视等APP使用，接口持续更新，来源于
 clan://localhost/TVBox/lib/99.json
 
 ## ★在线接口（持续更新）
+
+### **20240417**
+
+{% code overflow="wrap" %}
+```
+http://www.饭太硬.top/tv/
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+http://xhww.fun/小米/DEMO.json
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+http://肥猫.live
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+http://tv.nxog.top/m/
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+http://cdn.qiaoji8.com/tvbox.json
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+http://bp.tvbox.cam/
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+http://www.wya6.cn/tv/yc.json
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+http://我不是.摸鱼儿.top
+```
+{% endcode %}
+
+{% code overflow="wrap" %}
+```
+http://rihou.cc:88/荷城茶秀
+```
+{% endcode %}
 
 ### **20240327**
 
