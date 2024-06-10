@@ -1,15 +1,13 @@
 # Table of contents
 
-* [📋 IPTVindex](README.md)
-* [⚖️ 声明墙](sheng-ming-qiang.md)
+* [🚩 懒人包](README.md)
 * [📺 看电视](kan-dian-shi.md)
 * [📽️ 刷影视](shua-ying-shi.md)
 * [🧩 接口汇](jie-kou-hui.md)
-* [🎵 听音乐](ting-yin-le.md)
-* [📘 读小说](du-xiao-shuo.md)
 * [🖥️ 好应用](hao-ying-yong.md)
-* [🚗 车机版](che-ji-ban.md)
 * [🏁 常用站](chang-yong-zhan.md)
+* [📋 大事记](da-shi-ji.md)
+* [⚖️ 声明墙](sheng-ming-qiang.md)
 * [银河录像局 次世代合租平台](https://nf.video/xo7uy)
 * [奈飞小铺 智能账号合租平台](https://ihezu.zone/esf7nk)
 * [123云盘](https://www.123pan.com/s/Wby0Vv-MJQod.html)

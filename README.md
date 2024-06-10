@@ -1,33 +1,39 @@
 ---
-description: www.iptvindex.com 里程碑记录及重要公告
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+description: 想看电视直播和影视点播，此处介绍个人长期稳定使用的软件和方法，聚焦TV版。
 ---
 
-# 📋 IPTVindex
+# 🚩 懒人包
 
-**2024年3月27日，将** [**接口汇**](jie-kou-hui.md) **单独设立专区，方便大家及时获取更新可用的接口。**
+## 看电视
 
-**2024年2月1日，从** [**银河录像局**](https://nf.video/xo7uy) **搞来特别优惠码 **<mark style="color:red;">**iptvindex**</mark>** 下单时输入立享93折。**
+#### <mark style="background-color:orange;">APK推荐：DIYP</mark>
 
-**2023年12月24日平安夜，探索TV与IPTVindex合并。**
+[点我下载](https://www.right.com.cn/forum/thread-8280295-1-1.html)
 
-**2023年12月16日周六21:40，IPTVindex主站从Github搬迁至GitBook，优化多终端访问体验。**
+#### <mark style="background-color:orange;">直播源推荐：NeTimed</mark>
 
-**2023年8月8日，发布基于DIYP修改的IPTV1.0.3安卓应用。**
+```
+https://s.netimed.cn/diyp
+```
 
-**2023年2月19日，IPTVindex在Github正式上线，探索TV直播点播内容搬迁至此。**
+## 刷影视
 
-**2022年3月25日，探索TV发布了哔哩哔哩第一个视频。20240201粉丝量21888，播放154万次。**
+#### <mark style="background-color:orange;">APK推荐：影视</mark>
 
-**2021年11月29日，探索TV在Github正式上线。**
+[点我下载](https://fatcat2023.lanzoum.com/b04drxm4j)　密码 5569
 
+> \*mobile是手机版　\*leanback是电视版　\*leanback-4.x是电视安卓系统版本为4.4以下的版本
+>
+> \*java 支持 jar + js 爬虫　\*python 支持 jar + js + py 爬虫
+>
+> \*arm64\_v8a = 64 位元　目前新款手机都支持64位　\*armeabi\_v7a = 32 位元
+
+#### <mark style="background-color:orange;">影视源推荐：肥猫 饭太硬</mark>
+
+```
+http://肥猫.com/
+```
+
+```
+http://www.饭太硬.com/tv/
+```
