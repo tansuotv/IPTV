@@ -6,9 +6,7 @@ description: 20240417更新一批大佬接口；配合影视仓/影视等APP使�
 
 ## ★大佬接口汇总
 
-[电视盒子源汇总](https://czy0220.gitee.io/cyuan/)　[云星接口合集](https://www.moil.cc/10.html)　[黎歌の接口地址](https://www.lige.fit/tvbox)
-
-[饭太硬接口地址](https://xn--sss604efuw.top/)　[欧歌API多线路TVBOX影视仓专用](http://tv.nxog.top/)
+[饭太硬](https://xn--sss604efuw.com/)　[欧歌API多线路TVBOX影视仓专用](http://tv.nxog.top/)
 
 [TVbox-interface](https://github.com/dlgt7/TVbox-interface)　[心魔大佬](https://codeberg.org/yw88075/tvbox.git)
 
@@ -27,32 +25,26 @@ http://肥猫.com/
 ```
 
 ```
-// Some code
+http://www.饭太硬.com/tv/
+```
+
+```
+http://ok321.top/tv
+```
+
+```
+http://tv.nxog.top/m/
+```
+
+```
+https://iptvindex.v.nxog.top/api.php?id=1
 ```
 
 ### **20240417**
 
 {% code overflow="wrap" %}
 ```
-http://www.饭太硬.top/tv/
-```
-{% endcode %}
-
-{% code overflow="wrap" %}
-```
 http://xhww.fun/小米/DEMO.json
-```
-{% endcode %}
-
-{% code overflow="wrap" %}
-```
-http://肥猫.live
-```
-{% endcode %}
-
-{% code overflow="wrap" %}
-```
-http://tv.nxog.top/m/
 ```
 {% endcode %}
 
