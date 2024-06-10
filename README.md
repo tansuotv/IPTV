@@ -26,7 +26,7 @@ https://s.netimed.cn/diyp
 >
 > \*java 支持 jar + js 爬虫　\*python 支持 jar + js + py 爬虫
 >
-> \*arm64\_v8a = 64 位元　目前新款手机都支持64位　\*armeabi\_v7a = 32 位元
+> \*arm64\_v8a 是 64 位　新款手机都支持64位　\*armeabi\_v7a 是 32 位
 
 #### <mark style="background-color:orange;">影视源推荐：肥猫 饭太硬</mark>
 
