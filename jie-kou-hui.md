@@ -6,9 +6,7 @@ description: 20240417更新一批大佬接口；配合影视仓/影视等APP使�
 
 ## ★大佬接口汇总
 
-[饭太硬](https://xn--sss604efuw.com/)　[欧歌API多线路TVBOX影视仓专用](http://tv.nxog.top/)
-
-[TVbox-interface](https://github.com/dlgt7/TVbox-interface)　[心魔大佬](https://codeberg.org/yw88075/tvbox.git)
+[饭太硬](https://xn--sss604efuw.com/)　[欧歌API](http://tv.nxog.top/)　[TVbox-interface](https://github.com/dlgt7/TVbox-interface)
 
 本地接口：　[-=云星日记TVBox本地接口=-](https://itvbox.lanzoub.com/b0erx68gf)　密码：4e93
 
