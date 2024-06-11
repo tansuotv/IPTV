@@ -1,39 +1,27 @@
 ---
-description: 想看电视直播和影视点播，此处介绍个人长期稳定使用的软件和方法，聚焦TV版。
+description: 推荐个人长期稳定使用的TV端电视直播和影视点播软件和接口
 ---
 
 # 🚩 懒人包
 
-## 看电视
+## 看电视：DIYP
 
-#### <mark style="background-color:orange;">APK推荐：DIYP</mark>
+[点我下载](https://www.right.com.cn/forum/thread-8280295-1-1.html) `https://s.netimed.cn/diyp`
 
-[点我下载](https://www.right.com.cn/forum/thread-8280295-1-1.html)
+## 刷影视：OK影视
 
-#### <mark style="background-color:orange;">直播源推荐：NeTimed</mark>
+[点我下载](https://fatcat2023.lanzoum.com/b04drxm4j)　密码 `5569`
 
-```
-https://s.netimed.cn/diyp
-```
+接口：<mark style="color:red;">肥猫</mark> `http://肥猫.com/`　<mark style="color:red;">饭太硬</mark> `http://www.饭太硬.com/tv/`
 
-## 刷影视
-
-#### <mark style="background-color:orange;">APK推荐：影视</mark>
-
-[点我下载](https://fatcat2023.lanzoum.com/b04drxm4j)　密码 5569
-
-> \*mobile是手机版　\*leanback是电视版　\*leanback-4.x是电视安卓系统版本为4.4以下的版本
+> \*leanback是电视版　\*leanback-4.x是电视安卓系统版本为4.4以下的版本　\*mobile是手机版
 >
 > \*java 支持 jar + js 爬虫　\*python 支持 jar + js + py 爬虫
 >
 > \*arm64\_v8a 是 64 位　新款手机都支持64位　\*armeabi\_v7a 是 32 位
 
-#### <mark style="background-color:orange;">影视源推荐：肥猫 饭太硬</mark>
+## 刷影视：小白云盘
 
-```
-http://肥猫.com/
-```
+下载：[阿里云盘](https://www.aliyundrive.com/s/EkGo3a8wFwP)　[123盘](https://www.123pan.com/s/Z6DHjv-BYbm.html)
 
-```
-http://www.饭太硬.com/tv/
-```
+> 安装后扫码登录阿里云盘即可畅享盘内资源
