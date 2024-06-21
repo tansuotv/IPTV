@@ -1,5 +1,6 @@
 ---
-description: 240120增加IPTV频道，更多直播源奉上；240119增加两个央视卫视直播APK，适合不好折腾的朋友使用；240106更新派大星直播。
+description: >-
+  240621增加一款好用的电视直播软件MyTV；240120增加IPTV频道，更多直播源奉上；240119增加两个央视卫视直播APK，适合不好折腾的朋友使用。
 layout:
   title:
     visible: true
@@ -17,7 +18,7 @@ layout:
 
 ## ★央视卫视直播APK 快速稳定
 
-[我的电视](https://github.com/lizongying/my-tv)　[CCTV浏览器](https://github.com/Eanya-Tonic/CCTV\_Viewer)
+[MyTV](https://github.com/yaoxieyoulei/mytv-android)　[我的电视](https://github.com/lizongying/my-tv)　[CCTV浏览器](https://github.com/Eanya-Tonic/CCTV\_Viewer)
 
 ## ★随时随地 想看就看 官方直播 稳定可靠
 
