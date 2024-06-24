@@ -86,39 +86,11 @@ https://epg.pw/xmltv.html?lang=zh-hant
 
 IPV6：https://fanmingming.com/txt?url=https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 
-### IPTV-ORG
+### 直播源
 
-总列表：https://iptv-org.github.io/iptv/index.m3u
-
-包含不可描述内容：https://iptv-org.github.io/iptv/index.nsfw.m3u
-
-根据内容区分：https://iptv-org.github.io/iptv/index.category.m3u
-
-根据国家区分：https://iptv-org.github.io/iptv/index.country.m3u
-
-根据语言区分：https://iptv-org.github.io/iptv/index.language.m3u
-
-根据区域区分：https://iptv-org.github.io/iptv/index.region.m3u
-
-娱乐频道：https://iptv-org.github.io/iptv/categories/entertainment.m3u
-
-电影频道：https://iptv-org.github.io/iptv/categories/movies.m3u
-
-音乐频道：https://iptv-org.github.io/iptv/categories/music.m3u
-
-户外频道：https://iptv-org.github.io/iptv/categories/outdoor.m3u
-
-体育频道：https://iptv-org.github.io/iptv/categories/sports.m3u
-
-中文频道：https://iptv-org.github.io/iptv/languages/zho.m3u
-
-英文频道：https://iptv-org.github.io/iptv/languages/eng.m3u
-
-### 其他
-
-{% code overflow="wrap" %}
+{% code title="Netimed直播源" overflow="wrap" %}
 ```
-http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0
+https://s.netimed.cn/diyp
 ```
 {% endcode %}
 
@@ -186,6 +158,6 @@ https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u
 ```
 {% endcode %}
 
-## ★2024最新全球电视IPTV直播源吸星大法 解压密码 tansuo.tv
+## ★全球电视IPTV直播源吸星大法 解压密码 tansuo.tv
 
 [https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan)
