@@ -24,6 +24,12 @@ https://s.netimed.cn/diyp
 
 [点击下载5569](https://fatcat2023.lanzoum.com/b04drxm4j)
 
+{% code title="OK猫接口" overflow="wrap" %}
+```
+http://ok321.top/tv
+```
+{% endcode %}
+
 {% code title="肥猫接口" overflow="wrap" %}
 ```
 http://肥猫.com/
