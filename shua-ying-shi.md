@@ -31,7 +31,7 @@ layout:
 
 [片库网①](https://www.piankutv.cc/)　[片库网②](https://yuheqz.com/)　[片库网③](https://www.huameihangkong.com/)
 
-[美剧天堂](http://mjtt.tv)
+[美剧天堂](http://mjtt.tv)　[看片狂人](https://sway.cloud.microsoft/I7shpE33Fu3XIxb6?ref=Link)
 
 **无名小站（需注册）**
 
