@@ -18,6 +18,12 @@ https://s.netimed.cn/diyp
 
 > 将直播源txt文件放在本地根目录DIYP文件夹内。txt文件名示范：1#央视.txt　2#卫视.txt
 
+### ★太阳直播
+
+[点击下载新版1.0.1](https://tansuo.lanzoue.com/iwCRt241sdze)
+
+> 好用的太阳直播终于回归，不想DIY的同学装这个吧
+
 ## 刷影视
 
 ### ★影视TV
@@ -39,6 +45,12 @@ http://肥猫.com/
 {% code title="饭太硬接口" overflow="wrap" %}
 ```
 http://www.饭太硬.com/tv/
+```
+{% endcode %}
+
+{% code title="MeowTV接口" overflow="wrap" %}
+```
+http://meowtv.top/tv
 ```
 {% endcode %}
 

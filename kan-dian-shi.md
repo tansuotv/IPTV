@@ -18,7 +18,7 @@ layout:
 
 ## ★央视卫视直播APK 快速稳定
 
-[MyTV](https://github.com/yaoxieyoulei/mytv-android)　[我的电视](https://github.com/lizongying/my-tv)　[CCTV浏览器](https://github.com/Eanya-Tonic/CCTV\_Viewer)
+[MyTV](https://github.com/yaoxieyoulei/mytv-android)　[我的电视](https://github.com/lizongying/my-tv)　[CCTV浏览器](https://github.com/Eanya-Tonic/CCTV\_Viewer)　[太阳直播](https://tansuo.lanzoue.com/iwCRt241sdze)
 
 ## ★随时随地 想看就看 官方直播 稳定可靠
 
