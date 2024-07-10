@@ -20,9 +20,9 @@ https://s.netimed.cn/diyp
 
 ## 刷影视
 
-### ★OK影视
+### ★影视TV
 
-[点击下载5569](https://fatcat2023.lanzoum.com/b04drxm4j)
+[点击下载2.4.2版](https://tansuo.lanzoue.com/iLWjx241qq6b)　[更多版本](https://fatcat2023.lanzoum.com/b04drxm4j)（关注VX公众号“肥猫宝贝”发送fm获取密码）
 
 {% code title="OK猫接口" overflow="wrap" %}
 ```
