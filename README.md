@@ -2,7 +2,7 @@
 description: 推荐个人长期稳定使用的TV端电视直播和影视点播软件和接口
 ---
 
-# 🚩 懒人包
+# 🚩 IPTVindex
 
 ## 看电视
 
@@ -28,7 +28,7 @@ https://s.netimed.cn/diyp
 
 ### ★影视TV
 
-[点击下载2.4.2版](https://tansuo.lanzoue.com/iLWjx241qq6b)　[更多版本](https://fatcat2023.lanzoum.com/b04drxm4j)（关注VX公众号“肥猫宝贝”发送fm获取密码）
+[点击下载2.4.3版](https://tansuo.lanzoue.com/iviR9249m8yf)　[更多版本](https://fatcat2023.lanzoum.com/b04drxm4j)（关注VX“肥猫宝贝”发fm取密4112） [★手机版](https://fatcat2023.lanzoum.com/b04dry27i)
 
 {% code title="OK猫接口" overflow="wrap" %}
 ```

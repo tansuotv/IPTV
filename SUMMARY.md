@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🚩 懒人包](README.md)
+* [🚩 IPTVindex](README.md)
 * [📺 看电视](kan-dian-shi.md)
 * [📽️ 刷影视](shua-ying-shi.md)
 * [🧩 接口汇](jie-kou-hui.md)
