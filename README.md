@@ -10,8 +10,6 @@ description: 推荐个人长期稳定使用的TV端电视直播和影视点播�
 
 [点击下载](https://www.right.com.cn/forum/thread-8280295-1-1.html)
 
-[点击下载](https://www.right.com.cn/forum/thread-8280295-1-1.html){:target="\_blank"}
-
 {% code title="Netimed直播源" overflow="wrap" %}
 ```
 https://s.netimed.cn/diyp
