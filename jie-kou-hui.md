@@ -6,7 +6,7 @@ description: 20240718增加LR大佬接口。
 
 ## ★大佬接口汇总
 
-[饭太硬](https://xn--sss604efuw.com/)　[欧歌API](http://tv.nxog.top/)　[TVbox-interface](https://github.com/dlgt7/TVbox-interface)[LR](https://yuanzl77.github.io/)
+[饭太硬](https://xn--sss604efuw.com/)　[欧歌API](http://tv.nxog.top/)　[TVbox-interface](https://github.com/dlgt7/TVbox-interface)　[LR](https://yuanzl77.github.io/)
 
 本地接口：　[-=云星日记TVBox本地接口=-](https://itvbox.lanzoub.com/b0erx68gf)　密码：4e93
 
