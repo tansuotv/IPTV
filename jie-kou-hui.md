@@ -1,12 +1,12 @@
 ---
-description: 20240417更新一批大佬接口；配合影视仓/影视等APP使用，接口持续更新，来源于安卓开发哥等大佬。
+description: 20240718增加LR大佬接口。
 ---
 
 # 🧩 接口汇
 
 ## ★大佬接口汇总
 
-[饭太硬](https://xn--sss604efuw.com/)　[欧歌API](http://tv.nxog.top/)　[TVbox-interface](https://github.com/dlgt7/TVbox-interface)
+[饭太硬](https://xn--sss604efuw.com/)　[欧歌API](http://tv.nxog.top/)　[TVbox-interface](https://github.com/dlgt7/TVbox-interface)[LR](https://yuanzl77.github.io/)
 
 本地接口：　[-=云星日记TVBox本地接口=-](https://itvbox.lanzoub.com/b0erx68gf)　密码：4e93
 
