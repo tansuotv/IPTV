@@ -16,6 +16,12 @@ https://s.netimed.cn/diyp
 ```
 {% endcode %}
 
+{% code title="yld24直播源" overflow="wrap" %}
+```
+https://github.moeyy.xyz/https://raw.githubusercontent.com/yld24/zb/main/v4mu
+```
+{% endcode %}
+
 > 将直播源txt文件放在本地根目录DIYP文件夹内。txt文件名示范：1#央视.txt　2#卫视.txt
 
 ### ★太阳直播
