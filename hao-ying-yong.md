@@ -1,5 +1,5 @@
 ---
-description: 20240317更新李跳跳2986条规则；20231225增加当贝桌面及gkd；20231224更新李跳跳续命方法。
+description: 20240805更新剪映VIP破解版。
 layout:
   title:
     visible: true
@@ -14,6 +14,12 @@ layout:
 ---
 
 # 🖥️ 好应用
+
+## ★剪映V﻿IP破解版
+
+By: Ai-皇帝 [源站](https://www.ai-hd.com/article/df3a220f-c7f6-4601-9cd7-8bde2b9d5fcd)
+
+Win版本：[123网盘](https://www.123pan.com/s/IHLA-L0xhd.html)　[huang1111盘](https://pan.huang1111.cn/s/2vo5nsN)　[Google Drive](https://drive.google.com/file/d/1nKALGDkwsp6yehQLuLx\_gxnjIMLi-C\_J/view?usp=sharing)
 
 ## ★当贝桌面4.17版纯净绿色版
 
