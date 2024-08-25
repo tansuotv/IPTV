@@ -1,5 +1,6 @@
 ---
 description: 推荐个人长期稳定使用的TV端电视直播和影视点播软件和接口
+cover: .gitbook/assets/冰岛飞机残骸.jpg
 coverY: 0
 ---
 
