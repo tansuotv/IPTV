@@ -1,5 +1,6 @@
 ---
 description: 推荐个人长期稳定使用的TV端电视直播和影视点播软件和接口
+coverY: 0
 ---
 
 # 🚩 IPTVindex
@@ -34,7 +35,7 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/yld24/zb/main/v4mu
 
 ### ★影视TV
 
-[点击下载2.4.3版](https://tansuo.lanzoue.com/iviR9249m8yf)　[更多版本](https://fatcat2023.lanzoum.com/b04drxm4j)（关注VX“肥猫宝贝”发fm取密4112） [★手机版](https://fatcat2023.lanzoum.com/b04dry27i)
+[点击下载<mark style="color:red;">2.5.2</mark>版](https://tansuo.lanzoue.com/ijxsm28cxqli)　[更多TV版本](https://fatcat2023.lanzoum.com/b04drxm4j)（关注VX“肥猫宝贝”发fm取密<mark style="color:red;">3251</mark>） [★手机版](https://fatcat2023.lanzoum.com/b04dry27i)
 
 {% code title="OK猫接口" overflow="wrap" %}
 ```
@@ -44,7 +45,8 @@ http://ok321.top/tv
 
 {% code title="肥猫接口" overflow="wrap" %}
 ```
-http://肥猫.com/
+https://肥猫.com/
+http://like.肥猫.com/你好
 ```
 {% endcode %}
 
