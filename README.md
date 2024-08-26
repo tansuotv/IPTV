@@ -36,7 +36,7 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/yld24/zb/main/v4mu
 
 ### ★影视TV
 
-[点击下载<mark style="color:red;">2.5.2</mark>版](https://tansuo.lanzoue.com/ijxsm28cxqli)　[更多TV版本](https://fatcat2023.lanzoum.com/b04drxm4j)（关注VX“肥猫宝贝”发fm取密<mark style="color:red;">3251</mark>） [★手机版](https://fatcat2023.lanzoum.com/b04dry27i)
+[TV版本](https://fatcat2023.lanzoum.com/b04drxm4j)　　 [★手机版](https://fatcat2023.lanzoum.com/b04dry27i) （关注微信“肥猫宝贝”发fm取密　<mark style="color:red;">8777</mark>）
 
 {% code title="OK猫接口" overflow="wrap" %}
 ```
