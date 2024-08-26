@@ -34,9 +34,9 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/yld24/zb/main/v4mu
 
 ## 刷影视
 
-### ★影视TV
+### ★影视
 
-[TV版本](https://fatcat2023.lanzoum.com/b04drxm4j)　　 [★手机版](https://fatcat2023.lanzoum.com/b04dry27i) （关注微信“肥猫宝贝”发fm取密　<mark style="color:red;">8777</mark>）
+[点击下载TV版](https://fatcat2023.lanzoum.com/b04drxm4j)  [点击下载手机版](https://fatcat2023.lanzoum.com/b04dry27i)  （密 <mark style="color:red;">8777</mark>）
 
 {% code title="OK猫接口" overflow="wrap" %}
 ```
