@@ -1,5 +1,5 @@
 ---
-description: 20240805更新剪映VIP破解版。
+description: 20240829更新PS2024破解绿色版。
 layout:
   title:
     visible: true
@@ -14,6 +14,12 @@ layout:
 ---
 
 # 🖥️ 好应用
+
+## ★Adobe Photoshop 2024 25.9.1 破解绿色版
+
+[夸克网盘](https://pan.quark.cn/s/d0158f44c183)    [城通网盘](http://ct.ghpym.com/d/7369060-60220882-9078d9)
+
+[百度网盘](https://pan.baidu.com/s/1rH4gGRdep169amnk\_emG-Q)    提取码ghxi
 
 ## ★剪映V﻿IP破解版
 
