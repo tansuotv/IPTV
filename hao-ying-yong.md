@@ -17,9 +17,9 @@ layout:
 
 ## ★Adobe Photoshop 2024 25.9.1 破解绿色版
 
-[夸克网盘](https://pan.quark.cn/s/d0158f44c183)    [城通网盘](http://ct.ghpym.com/d/7369060-60220882-9078d9)
+[夸克网盘](https://pan.quark.cn/s/d0158f44c183)    [城通网盘](http://ct.ghpym.com/d/7369060-60220882-9078d9)    [百度网盘](https://pan.baidu.com/s/1rH4gGRdep169amnk\_emG-Q)    提取码ghxi
 
-[百度网盘](https://pan.baidu.com/s/1rH4gGRdep169amnk\_emG-Q)    提取码ghxi
+[★推荐123云盘](https://www.123pan.com/s/tlYRVv-nQ9I.html)    [相关说明](https://www.shephe.com/resources/adobe-photoshop-free-download/)
 
 ## ★剪映V﻿IP破解版
 
