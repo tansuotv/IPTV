@@ -15,11 +15,17 @@ layout:
 
 # 🖥️ 好应用
 
-## ★Adobe Photoshop 2024 25.9.1 破解绿色版
+## Adobe Photoshop 2024 25.9.1 破解绿色版
 
 [夸克网盘](https://pan.quark.cn/s/d0158f44c183)    [城通网盘](http://ct.ghpym.com/d/7369060-60220882-9078d9)    [百度网盘](https://pan.baidu.com/s/1rH4gGRdep169amnk\_emG-Q)    提取码ghxi
 
 [★推荐123云盘](https://www.123pan.com/s/tlYRVv-nQ9I.html)    [相关说明](https://www.shephe.com/resources/adobe-photoshop-free-download/)
+
+## ★Adobe Photoshop 2020 v21.2.12.215 绿色精简版
+
+[城通网盘(3159)](http://ct.ghpym.com/d/7369060-42883627-f0a428)    [天翼云盘](https://cloud.189.cn/web/share?code=AVZrA3R73uYn)    [百度网盘](https://pan.baidu.com/s/18hyaUOVzVJmu2NXHStG5OA)    提取码ghxi
+
+[高速下载](https://cdn-cncc2-cd.mycsdn.cn:4388/d.php?p=IXASJ4C2w-UkNBfDSA1VF3SenXft2OdVxEBLA1zUE8QvyHlpVAh2yZAdtQPigBjLqBT0yJvn8=SF1FiyXVw4jOOWG6CPY-Qk9E-ai5F0f9kmPLg1QR=WAKAfE3AI5GOTeAVQgICeWMzR3TuGl=CT=HB0=4xb4By8fDUO2bgRXRQGZ9h=n8jk2GwLx9m5G=12WSw50av6C-=DHDRTg=BidLThAAV-6ZQwcRvWE4APnGjkQ9gvdDk513ieBXjR4Pva4=h7pHx4E4tyo)    [相关说明](hao-ying-yong.md#adobe-photoshop-2024-25.9.1-po-jielse-ban)
 
 ## ★剪映V﻿IP破解版
 
