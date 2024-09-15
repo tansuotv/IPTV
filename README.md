@@ -24,6 +24,12 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/yld24/zb/main/v4mu
 ```
 {% endcode %}
 
+{% code title="kimwang1978直播源" overflow="wrap" %}
+```
+http://gg.gg/tv-live-txt
+```
+{% endcode %}
+
 > 将直播源txt文件放在本地根目录DIYP文件夹内。txt文件名示范：1#央视.txt　2#卫视.txt
 
 ### ★太阳直播
@@ -32,11 +38,17 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/yld24/zb/main/v4mu
 
 > 好用的太阳直播终于回归，不想DIY的同学装这个吧
 
+### ★MyTV
+
+[点击下载新版2.2.2](https://github.com/yaoxieyoulei/mytv-android/releases)
+
+> mytv有很多版本，这一版最牛！
+
 ## 刷影视
 
 ### ★影视
 
-[点击下载TV版](https://fatcat2023.lanzoum.com/b04drxm4j)  [点击下载手机版](https://fatcat2023.lanzoum.com/b04dry27i)  （密 <mark style="color:red;">8777</mark>）
+[点击下载TV版](https://fatcat2023.lanzoum.com/b04drxm4j)  [点击下载手机版](https://fatcat2023.lanzoum.com/b04dry27i)  （密 <mark style="color:red;">5544</mark>）
 
 {% code title="OK猫接口" overflow="wrap" %}
 ```
@@ -47,7 +59,6 @@ http://ok321.top/tv
 {% code title="肥猫接口" overflow="wrap" %}
 ```
 https://肥猫.com/
-http://like.肥猫.com/你好
 ```
 {% endcode %}
 
