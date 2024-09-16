@@ -52,6 +52,12 @@ http://itv.22m.top/ITVBox/tv/tvonline.txt
 ```
 {% endcode %}
 
+{% code title="范明明IPV6直播源" overflow="wrap" %}
+```
+https://iptv.b2og.com/txt/fmml_ipv6.txt
+```
+{% endcode %}
+
 ## 刷影视
 
 ### ★影视TV+手机版
@@ -69,6 +75,12 @@ http://itv.22m.top/ITVBox/tv/tvonline.txt
 {% code title="OK猫接口" overflow="wrap" %}
 ```
 http://ok321.top/tv
+```
+{% endcode %}
+
+{% code title="ITVBox接口" overflow="wrap" %}
+```
+http://itv.22m.top/ITVBox/自用接口.json
 ```
 {% endcode %}
 
