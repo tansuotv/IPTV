@@ -8,11 +8,27 @@ description: 20240718增加LR大佬接口。
 
 [饭太硬](https://xn--sss604efuw.com/)　[欧歌API](http://tv.nxog.top/)　[TVbox-interface](https://github.com/dlgt7/TVbox-interface)　[LR](https://yuanzl77.github.io/)
 
-本地接口：　[-=云星日记TVBox本地接口=-](https://itvbox.lanzoub.com/b0erx68gf)　密码：4e93
+[-=云星日记TVBox本地接口=-](https://tansuo.lanzoub.com/iRBug2a3c6ih)
 
-本地+在线多仓 (优选): clan://localhost/TVBox/lib/ksck.json
+{% code title="云星日记TVBox本地接口" overflow="wrap" %}
+```
+clan://localhost/TVBox/lib/ksck.json
+```
+{% endcode %}
 
+{% code title="TVBox不可描述本地接口" overflow="wrap" %}
+```
 clan://localhost/TVBox/lib/99.json
+```
+{% endcode %}
+
+[-=ITVBox本地接口=-](https://tansuo.lanzoub.com/iv9JJ2a3c6ze)
+
+{% code title="ITVBox本地接口" overflow="wrap" %}
+```
+clan://localhost/ITVBox/自用接口.json
+```
+{% endcode %}
 
 ## ★在线接口（持续更新）
 
