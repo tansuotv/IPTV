@@ -14,18 +14,6 @@ coverY: 0
 
 > mytv有很多版本，这一版最牛！
 
-### ★DIYP
-
-[点击下载](https://www.right.com.cn/forum/thread-8280295-1-1.html)
-
-> 将直播源txt文件放在本地根目录DIYP文件夹内。txt文件名示范：1#央视.txt　2#卫视.txt
-
-### ★太阳直播
-
-[点击下载新版1.0.1](https://tansuo.lanzoue.com/iwCRt241sdze)
-
-> 好用的太阳直播终于回归，不想DIY的同学装这个吧
-
 ### ★直播源推荐
 
 {% code title="Netimed直播源" overflow="wrap" %}
@@ -55,6 +43,12 @@ http://itv.22m.top/ITVBox/tv/tvonline.txt
 {% code title="范明明IPV6直播源" overflow="wrap" %}
 ```
 https://iptv.b2og.com/txt/fmml_ipv6.txt
+```
+{% endcode %}
+
+{% code title="IPTVindex直播源" overflow="wrap" %}
+```
+https://github.moeyy.xyz/https://github.com/tansuotv/IPTVindex/blob/main/tv.txt
 ```
 {% endcode %}
 
