@@ -1,6 +1,6 @@
 ---
 description: 推荐个人长期稳定使用的TV端电视直播和影视点播软件和接口
-cover: .gitbook/assets/星际穿越黑洞 - 副本.jpg
+cover: .gitbook/assets/星际穿越.png
 coverY: 0
 layout:
   cover:
