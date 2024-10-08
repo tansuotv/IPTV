@@ -26,7 +26,21 @@ layout:
 
 [点击下载新版2.2.2](https://github.com/yaoxieyoulei/mytv-android/releases)
 
-> mytv有很多版本，这一版最牛！
+> mytv有很多版本，这一版最牛！但是有个bug，不支持电信的rtsp链接
+
+### ★酷9 PLAYER
+
+[点击下载1.3.2-2beta.20240927\_2237版本](https://tansuo.lanzoue.com/iSlwl2bycnzi)
+
+[源发布地址](https://www.right.com.cn/forum/thread-8388801-1-1.html)：https://wfy.lanzout.com/b0izqfjwb 密码123456
+
+{% code title="EPG查看节目信息" overflow="wrap" %}
+```
+https://epg.112114.xyz/pp.xml
+```
+{% endcode %}
+
+> 大神a6a6a6作品，汇集DIYP影音和tvbox优点。
 
 ### ★直播源推荐
 
