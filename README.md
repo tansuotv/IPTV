@@ -24,7 +24,9 @@ layout:
 
 ### ★MyTV
 
-[点击下载新版2.2.2](https://github.com/yaoxieyoulei/mytv-android/releases)
+[点击下载新版2.2.3](https://tansuo.lanzoue.com/i8Gqw2bycpje)
+
+[源发布地址](https://github.com/yaoxieyoulei/mytv-android)
 
 > mytv有很多版本，这一版最牛！但是有个bug，不支持电信的rtsp链接
 
