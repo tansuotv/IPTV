@@ -86,7 +86,7 @@ https://github.moeyy.xyz/https://github.com/tansuotv/IPTVindex/blob/main/tv.txt
 
 ### ★影视TV+手机版
 
-[点击下载TV版](https://fatcat2023.lanzoum.com/b04drxm4j)  [点击下载手机版](https://fatcat2023.lanzoum.com/b04dry27i)  （密 <mark style="color:red;">5544</mark>）
+[点击下载夸克网盘](https://pan.quark.cn/s/8309816e2f63)
 
 > \*leanback是电视版　\*leanback-4.x是电视安卓系统版本为4.4以下的版本　\*mobile是手机版
 >
