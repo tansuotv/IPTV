@@ -16,12 +16,6 @@ clan://localhost/TVBox/lib/ksck.json
 ```
 {% endcode %}
 
-{% code title="TVBox不可描述本地接口" overflow="wrap" %}
-```
-clan://localhost/TVBox/lib/99.json
-```
-{% endcode %}
-
 [-=ITVBox本地接口=-](https://tansuo.lanzoub.com/iv9JJ2a3c6ze)
 
 {% code title="ITVBox本地接口" overflow="wrap" %}
