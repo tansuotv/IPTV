@@ -1,6 +1,11 @@
 ---
 description: 推荐个人长期稳定使用的TV端影视点播软件和接口
+cover: .gitbook/assets/星际穿越.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
