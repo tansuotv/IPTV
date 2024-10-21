@@ -1,7 +1,6 @@
 # Table of contents
 
-* [🚩 IPTVindex](README.md)
-* [📺 看电视](kan-dian-shi.md)
+* [📺 看电视](README.md)
 * [📽️ 刷影视](shua-ying-shi.md)
 * [🧩 接口汇](jie-kou-hui.md)
 * [📋 大事记](da-shi-ji.md)
