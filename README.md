@@ -1,6 +1,6 @@
 ---
 description: 推荐个人长期稳定使用的TV端电视直播软件和接口
-cover: .gitbook/assets/星际穿越.png
+cover: .gitbook/assets/iptv家庭.png
 coverY: 0
 layout:
   cover:
