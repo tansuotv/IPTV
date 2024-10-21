@@ -4,8 +4,6 @@
 * [📺 看电视](kan-dian-shi.md)
 * [📽️ 刷影视](shua-ying-shi.md)
 * [🧩 接口汇](jie-kou-hui.md)
-* [🖥️ 好应用](hao-ying-yong.md)
-* [🏁 常用站](chang-yong-zhan.md)
 * [📋 大事记](da-shi-ji.md)
 * [⚖️ 声明墙](sheng-ming-qiang.md)
 * [银河录像局](https://nf.video/xo7uy)
