@@ -15,7 +15,7 @@ layout:
 
 # 📋 大事记
 
-**2024年10月21日，删除“好应用”和“常用站”两个子版块，本站全力聚焦IPTV。**
+**2024年10月21日，聚焦IPTV，删除“好应用”和“常用站”两个子版块，相关内容转至**[**探索TV**<mark style="color:red;background-color:yellow;">**tansuo.tv**</mark>](https://tansuo.tv)**。**
 
 **2024年6月10日端午节，网站很久没更，**<mark style="background-color:orange;">**内容太多太乱，聚焦影视观看，启动优化精简**</mark>**。**
 
