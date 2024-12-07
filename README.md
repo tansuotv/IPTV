@@ -24,7 +24,7 @@ layout:
 
 ### ★MyTV
 
-[点击下载最新版2.2.4](https://tansuo.lanzoue.com/iZm3C2cfhf7e)
+[点击下载最新版2.2.6](https://tansuo.lanzoue.com/iQFAY2hgqz5c)
 
 [源发布地址Github](https://github.com/yaoxieyoulei/mytv-android)
 
@@ -84,13 +84,13 @@ https://github.moeyy.xyz/https://github.com/tansuotv/IPTVindex/blob/main/tv.txt
 
 ## ★央视卫视直播APK 快速稳定
 
-[MyTV](https://github.com/yaoxieyoulei/mytv-android)　[我的电视](https://github.com/lizongying/my-tv)　[CCTV浏览器](https://github.com/Eanya-Tonic/CCTV\_Viewer)　[太阳直播](https://tansuo.lanzoue.com/iwCRt241sdze)
+[MyTV](https://github.com/yaoxieyoulei/mytv-android)　[我的电视](https://github.com/lizongying/my-tv)　[CCTV浏览器](https://github.com/Eanya-Tonic/CCTV_Viewer)　[太阳直播](https://tansuo.lanzoue.com/iwCRt241sdze)
 
 ## ★随时随地 想看就看 官方直播 稳定可靠
 
-[央视网直播大全](https://tv.cctv.com/live)　[IPTV444](https://www.iptv444.com)　[香港无线新闻](https://news.tvb.com/tc/live/83)　[香港有线HOY TV](https://hoy.tv/live?channel\_no=77)
+[央视网直播大全](https://tv.cctv.com/live)　[IPTV444](https://www.iptv444.com)　[香港无线新闻](https://news.tvb.com/tc/live/83)　[香港有线HOY TV](https://hoy.tv/live?channel_no=77)
 
-[皮克直播](https://piko.live/c/news)　[YouTube直播](https://www.youtube.com/results?search\_query=%E6%96%B0%E9%97%BB+%E7%9B%B4%E6%92%AD\&sp=EgJAAQ%253D%253D)
+[皮克直播](https://piko.live/c/news)　[YouTube直播](https://www.youtube.com/results?search_query=%E6%96%B0%E9%97%BB+%E7%9B%B4%E6%92%AD\&sp=EgJAAQ%253D%253D)
 
 ## ★第一步：安装Apk（空壳无直播源，自定义电视台列表）
 
